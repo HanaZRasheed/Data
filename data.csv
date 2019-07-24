@@ -1,0 +1,1046 @@
+Date,Category,Quantity, Unit Cost ,Employee Full Name,Customer Gender,Customer Age Group,Product,UnitPrice
+1/1/2015,Clothing,1,$44.53 ,Caron Caron,Female,70+,Donit,$57.44 
+2/1/2015,Toys,1,$74.28 ,Thincio Thincio,Male,70+,Donit,$122.56 
+4/1/2015,Components,1,$106.91 ,Thompson Thompson,Female,70+,Duosoft,$164.64 
+4/1/2015,Baby Health,1,$93.08 ,Carter Carter,Female,51-70,Bluefix,$156.37 
+5/1/2015,Paper Handling,1,$56.93 ,Hwell Hwell,Female,27-40,Bigstring,$121.26 
+5/1/2015,Clothing Accessories,5,$23.26 ,Olson Olson,Male,27-40,Alpha La,$30.94 
+6/1/2015,Health Care,2,$14.13 ,Rolland Rolland,Male,41-50,Airing,$21.05 
+7/1/2015,Costumes & Accessories,1,$103.33 ,Caron Caron,Female,18-26,Air-Nix,$157.06 
+9/1/2015,Food Items,1,$100.94 ,Thompson Thompson,Female,27-40,Donit,$184.72 
+9/1/2015,Shipping Supplies,1,$132.52 ,Lewis Lewis,Male,18-26,Alphafind,$218.66 
+9/1/2015,Pet Supplies,1,$116.04 ,Caron Caron,Female,27-40,Bigstring,$234.40 
+10/1/2015,Bathroom Accessories,1,$109.91 ,Hart Hart,Female,51-70,Airron,$137.39 
+10/1/2015,Bathroom Accessories,1,$141.52 ,Thompson Thompson,Male,51-70,Bigstring,$192.47 
+10/1/2015,Baby Transport Accessories,1,$116.58 ,Salo Salo,Female,18-26,Alpha La,$201.68 
+13/01/2015,Electronics Accessories,1,$83.99 ,Rousse Rousse,Female,27-40,Bluefix,$139.42 
+14/01/2015,Handbag & Wallet Accessories,1,$27.30 ,Russel Russel,Male,18-26,Airing,$42.59 
+14/01/2015,Electronics Accessories,3,$18.49 ,Carter Carter,Male,27-40,Alpha La,$22.56 
+14/01/2015,Office Equipment,1,$133.83 ,Margaret Margaret,Female,41-50,Donjob,$204.76 
+15/01/2015,Health Care,1,$88.72 ,Thincio Thincio,Female,27-40,Biolab,$168.57 
+16/01/2015,General Office Supplies,3,$24.87 ,Russel Russel,Female,27-40,Bluefix,$33.33 
+16/01/2015,Household Appliances,1,$148.31 ,Lewis Lewis,Female,18-26,Bigstring,$318.87 
+16/01/2015,Food Items,1,$68.38 ,Edwards Edwards,Female,27-40,Duosoft,$148.38 
+17/01/2015,Pet Supplies,3,$18.79 ,Carter Carter,Female,27-40,Donit,$25.93 
+17/01/2015,Office Equipment,1,$52.63 ,Olson Olson,Male,27-40,Bigstring,$68.95 
+17/01/2015,Clothing,1,$36.93 ,Olson Olson,Male,41-50,Airing,$52.44 
+17/01/2015,Audio,1,$96.66 ,Rolland Rolland,Male,27-40,Airron,$145.96 
+17/01/2015,Beverages,1,$107.66 ,Rhodes Rhodes,Female,70+,Donit,$220.70 
+18/01/2015,Pet Supplies,1,$96.64 ,Jensen Jensen,Female,27-40,Alphafind,$131.43 
+18/01/2015,Clothing Accessories,1,$40.90 ,Margaret Margaret,Female,27-40,Airfind,$53.58 
+18/01/2015,Bathroom Accessories,1,$39.10 ,Thincio Thincio,Female,27-40,Concandox,$76.64 
+19/01/2015,Presentation Supplies,1,$143.28 ,Freitas Freitas,Female,41-50,Concandox,$270.80 
+19/01/2015,Outdoor Play Equipment,1,$36.12 ,Rhodes Rhodes,Male,51-70,Bluefix,$43.34 
+19/01/2015,Toys,2,$12.86 ,Rolland Rolland,Male,27-40,Airing,$15.95 
+20/01/2015,Baby Toys & Activity Equipment,1,$141.36 ,Russel Russel,Female,18-26,Duosoft,$200.73 
+23/01/2015,Pet Supplies,1,$31.53 ,Jensen Jensen,Male,27-40,Airing,$43.20 
+23/01/2015,Paper Handling,1,$89.91 ,Carter Carter,Female,51-70,Donjob,$112.39 
+23/01/2015,Games,1,$79.72 ,Thompson Thompson,Male,27-40,Alpha La,$148.28 
+25/01/2015,Pet Supplies,1,$117.74 ,Jensen Jensen,Female,27-40,Duosoft,$144.82 
+25/01/2015,General Office Supplies,1,$45.40 ,Banks Banks,Female,41-50,Bluefix,$67.19 
+25/01/2015,General Office Supplies,1,$74.99 ,Hwell Hwell,Female,41-50,Duosoft,$118.48 
+26/01/2015,Bathroom Accessories,1,$76.90 ,Banks Banks,Male,27-40,Air-Nix,$110.74 
+26/01/2015,Clothing Accessories,1,$41.26 ,Edwards Edwards,Female,41-50,Alphafind,$77.16 
+27/01/2015,Food Items,1,$114.59 ,Thompson Thompson,Male,51-70,Biolab,$231.47 
+28/01/2015,Presentation Supplies,1,$147.35 ,Lewis Lewis,Female,51-70,Donit,$195.98 
+31/01/2015,Outdoor Play Equipment,1,$124.90 ,Freitas Freitas,Female,27-40,Donit,$249.80 
+31/01/2015,Household Appliances,1,$75.70 ,Lewis Lewis,Female,18-26,Airron,$91.60 
+2/2/2015,"Handbags, Wallets & Cases",1,$86.36 ,Thincio Thincio,Female,51-70,Biolab,$119.18 
+2/2/2015,Clothing,5,$22.17 ,Carter Carter,Male,41-50,Air-Nix,$39.02 
+3/2/2015,Communications,1,$98.65 ,Caron Caron,Female,27-40,Air-Nix,$176.58 
+3/2/2015,Bathroom Accessories,1,$64.46 ,Rousse Rousse,Male,27-40,Alpha La,$141.17 
+4/2/2015,Health Care,1,$67.56 ,Thompson Thompson,Female,27-40,Airron,$112.83 
+6/2/2015,Outdoor Play Equipment,4,$24.00 ,Jensen Jensen,Female,27-40,Alpha La,$37.44 
+6/2/2015,Household Appliances,1,$77.68 ,Rousse Rousse,Male,27-40,Biolab,$159.24 
+7/2/2015,Food Items,1,$120.16 ,Rousse Rousse,Female,27-40,Concandox,$212.68 
+8/2/2015,Food Items,1,$77.21 ,Thompson Thompson,Male,27-40,Airron,$145.93 
+8/2/2015,Emergency Preparedness,1,$33.00 ,Carter Carter,Male,41-50,Alphafind,$58.41 
+8/2/2015,Puzzles,1,$11.61 ,Hwell Hwell,Female,27-40,Bigstring,$15.09 
+8/2/2015,Household Appliance Accessories,1,$13.47 ,Hwell Hwell,Female,41-50,Donit,$29.63 
+10/2/2015,Costumes & Accessories,1,$129.02 ,Caron Caron,Female,51-70,Alphafind,$159.98 
+11/2/2015,Shipping Supplies,1,$77.01 ,Thompson Thompson,Female,51-70,Alphais,$117.83 
+12/2/2015,Clothing Accessories,1,$30.98 ,Hwell Hwell,Male,41-50,Donjob,$61.96 
+13/02/2015,Business & Home Security,1,$11.08 ,Banks Banks,Female,27-40,Donit,$22.38 
+13/02/2015,Games,1,$133.95 ,Hart Hart,Male,41-50,Bluefix,$215.66 
+13/02/2015,Fireplace & Wood Stove Accessories,1,$81.26 ,Olson Olson,Male,27-40,Alpha La,$151.96 
+14/02/2015,Lighting,1,$55.46 ,Thincio Thincio,Male,27-40,Duosoft,$97.61 
+14/02/2015,Household Supplies,1,$119.53 ,Jensen Jensen,Male,51-70,Airron,$178.10 
+15/02/2015,Networking,1,$32.56 ,Thincio Thincio,Male,70+,Duosoft,$61.54 
+15/02/2015,Electronics Accessories,1,$130.32 ,Freitas Freitas,Female,41-50,Alphafind,$209.82 
+17/02/2015,Networking,1,$54.33 ,Caron Caron,Male,27-40,Concandox,$72.80 
+17/02/2015,Household Appliances,1,$65.79 ,Margaret Margaret,Male,18-26,Airron,$126.32 
+18/02/2015,Pet Supplies,4,$14.42 ,Lewis Lewis,Male,18-26,Alphafind,$22.64 
+18/02/2015,Filing & Organization,1,$98.15 ,Jensen Jensen,Male,41-50,Bluefix,$211.02 
+19/02/2015,Games,1,$70.87 ,Thincio Thincio,Female,27-40,Bigstring,$135.36 
+20/02/2015,Office Carts,1,$54.14 ,Lewis Lewis,Female,51-70,Air-Nix,$72.55 
+20/02/2015,Household Supplies,1,$81.54 ,Rhodes Rhodes,Male,41-50,Biolab,$119.86 
+20/02/2015,Puzzles,1,$74.79 ,Thompson Thompson,Female,27-40,Airing,$102.46 
+21/02/2015,Toys,1,$140.69 ,Freitas Freitas,Female,18-26,Duosoft,$227.92 
+22/02/2015,Networking,1,$53.94 ,Caron Caron,Male,27-40,Concandox,$89.00 
+22/02/2015,Games,1,$139.15 ,Jensen Jensen,Male,27-40,Donit,$208.73 
+23/02/2015,Health Care,1,$127.15 ,Freitas Freitas,Male,27-40,Concandox,$198.35 
+23/02/2015,Pet Supplies,1,$67.36 ,Thompson Thompson,Female,70+,Alpha La,$111.82 
+25/02/2015,Health Care,1,$69.97 ,Carter Carter,Female,51-70,Biolab,$98.66 
+26/02/2015,Games,1,$47.99 ,Hart Hart,Female,18-26,Bigstring,$93.58 
+26/02/2015,Household Appliances,1,$45.32 ,Rolland Rolland,Male,27-40,Bigstring,$97.89 
+27/02/2015,Pet Supplies,1,$125.19 ,Salo Salo,Male,41-50,Alphafind,$164.00 
+28/02/2015,Food Items,1,$100.08 ,Edwards Edwards,Female,41-50,Airfind,$148.12 
+1/3/2015,Office Carts,1,$6.01 ,Thincio Thincio,Female,27-40,Alpha La,$10.58 
+1/3/2015,Toys,1,$93.80 ,Olson Olson,Male,18-26,Alphais,$199.79 
+1/3/2015,Clothing Accessories,1,$92.21 ,Lewis Lewis,Female,70+,Donit,$193.64 
+1/3/2015,Household Appliances,1,$136.58 ,Jensen Jensen,Male,27-40,Alphafind,$255.40 
+2/3/2015,Pet Supplies,1,$11.83 ,Salo Salo,Male,51-70,Alpha La,$20.82 
+3/3/2015,Toys,1,$50.30 ,Hart Hart,Female,27-40,Air-Nix,$88.53 
+3/3/2015,Pet Supplies,1,$65.49 ,Rousse Rousse,Male,70+,Bluefix,$133.60 
+3/3/2015,Beverages,1,$70.67 ,Rhodes Rhodes,Female,51-70,Biolab,$109.54 
+4/3/2015,Baby Health,1,$69.31 ,Lewis Lewis,Male,70+,Alphafind,$114.36 
+5/3/2015,Toys,1,$6.00 ,Caron Caron,Female,27-40,Alpha La,$13.02 
+5/3/2015,Household Appliances,1,$119.58 ,Banks Banks,Male,18-26,Bigstring,$217.64 
+6/3/2015,"Handbags, Wallets & Cases",1,$33.01 ,Thompson Thompson,Female,27-40,Alphafind,$51.83 
+6/3/2015,Networking,1,$133.47 ,Thincio Thincio,Female,51-70,Biolab,$266.94 
+7/3/2015,Baby Transport,1,$143.61 ,Rhodes Rhodes,Female,27-40,Air-Nix,$258.50 
+7/3/2015,Toys,1,$112.16 ,Olson Olson,Male,51-70,Duosoft,$232.17 
+7/3/2015,Lighting,1,$101.72 ,Freitas Freitas,Male,51-70,Airfind,$187.16 
+8/3/2015,Pet Supplies,5,$23.34 ,Freitas Freitas,Male,51-70,Alpha La,$41.31 
+9/3/2015,Shoe Accessories,1,$79.87 ,Rolland Rolland,Male,41-50,Airfind,$105.43 
+9/3/2015,Clothing,1,$109.60 ,Caron Caron,Female,51-70,Alphais,$156.73 
+9/3/2015,Household Appliance Accessories,1,$116.26 ,Rolland Rolland,Male,27-40,Air-Nix,$198.80 
+10/3/2015,Health Care,1,$37.62 ,Salo Salo,Male,70+,Airing,$62.45 
+10/3/2015,Marine Electronics,1,$95.00 ,Rhodes Rhodes,Male,41-50,Bigstring,$125.40 
+10/3/2015,Games,1,$32.47 ,Russel Russel,Female,27-40,Alphafind,$40.59 
+11/3/2015,Fireplace & Wood Stove Accessories,2,$23.95 ,Margaret Margaret,Female,41-50,Bluefix,$43.35 
+11/3/2015,Office Instruments,1,$65.37 ,Carter Carter,Male,27-40,Donit,$128.78 
+12/3/2015,Outdoor Play Equipment,1,$131.50 ,Banks Banks,Female,51-70,Bluefix,$268.26 
+12/3/2015,Beverages,1,$137.10 ,Salo Salo,Male,41-50,Donjob,$213.88 
+12/3/2015,GPS Accessories,1,$60.92 ,Olson Olson,Female,27-40,Alphais,$106.00 
+13/03/2015,Health Care,1,$78.01 ,Banks Banks,Female,70+,Airing,$124.04 
+15/03/2015,Office Carts,2,$8.66 ,Edwards Edwards,Male,51-70,Air-Nix,$18.01 
+15/03/2015,Office Equipment,1,$65.57 ,Russel Russel,Male,41-50,Alphais,$122.62 
+15/03/2015,Beverages,1,$73.37 ,Freitas Freitas,Female,27-40,Bigstring,$115.92 
+16/03/2015,Household Appliance Accessories,1,$37.79 ,Freitas Freitas,Male,27-40,Donjob,$51.02 
+16/03/2015,Lawn & Garden,1,$56.41 ,Hwell Hwell,Female,27-40,Airfind,$77.28 
+17/03/2015,Lighting,1,$140.52 ,Russel Russel,Female,18-26,Concandox,$206.56 
+17/03/2015,Luggage Accessories,1,$50.41 ,Hart Hart,Male,18-26,Concandox,$65.53 
+18/03/2015,Games,5,$15.74 ,Thompson Thompson,Female,18-26,Biolab,$26.44 
+18/03/2015,Office Carts,1,$115.97 ,Rhodes Rhodes,Male,70+,Alphais,$215.70 
+19/03/2015,Bathroom Accessories,1,$41.92 ,Carter Carter,Female,27-40,Duosoft,$78.81 
+19/03/2015,Presentation Supplies,3,$13.99 ,Thincio Thincio,Female,27-40,Airfind,$24.48 
+19/03/2015,Electronics Accessories,1,$146.02 ,Russel Russel,Male,41-50,Donit,$236.55 
+19/03/2015,Clothing Accessories,1,$107.09 ,Carter Carter,Female,27-40,Airing,$220.61 
+21/03/2015,Beverages,1,$82.76 ,Hart Hart,Female,27-40,Concandox,$110.07 
+21/03/2015,Bathroom Accessories,1,$106.18 ,Freitas Freitas,Female,41-50,Donjob,$146.53 
+23/03/2015,Electronics Accessories,1,$143.10 ,Rhodes Rhodes,Female,70+,Donit,$280.48 
+23/03/2015,Fireplace & Wood Stove Accessories,5,$9.58 ,Rhodes Rhodes,Male,18-26,Alphais,$21.08 
+23/03/2015,Office Instruments,1,$59.49 ,Olson Olson,Male,27-40,Alphais,$86.86 
+25/03/2015,Book Accessories,1,$115.78 ,Hart Hart,Female,51-70,Duosoft,$166.72 
+25/03/2015,Emergency Preparedness,1,$30.66 ,Banks Banks,Female,51-70,Duosoft,$39.55 
+26/03/2015,Household Appliances,1,$115.81 ,Olson Olson,Male,27-40,Alphafind,$243.20 
+26/03/2015,Filing & Organization,1,$41.04 ,Banks Banks,Male,27-40,Biolab,$56.64 
+26/03/2015,Fireplace & Wood Stove Accessories,1,$53.42 ,Caron Caron,Male,41-50,Bigstring,$91.88 
+27/03/2015,Lawn & Garden,1,$67.71 ,Salo Salo,Male,27-40,Duosoft,$135.42 
+27/03/2015,Toys,1,$34.23 ,Caron Caron,Male,70+,Duosoft,$65.72 
+27/03/2015,Toys,1,$125.82 ,Rolland Rolland,Male,41-50,Airing,$182.44 
+28/03/2015,Computers,1,$95.91 ,Hart Hart,Male,41-50,Air-Nix,$117.97 
+28/03/2015,Bathroom Accessories,1,$138.29 ,Edwards Edwards,Female,41-50,Duosoft,$232.33 
+28/03/2015,Toys,1,$67.28 ,Rousse Rousse,Female,27-40,Donjob,$119.09 
+31/03/2015,Health Care,1,$130.03 ,Salo Salo,Male,51-70,Bigstring,$185.94 
+2/4/2015,Nursing & Feeding,1,$115.96 ,Thompson Thompson,Male,41-50,Alphafind,$156.55 
+3/4/2015,Nursing & Feeding,1,$48.62 ,Banks Banks,Male,41-50,Alphais,$74.39 
+3/4/2015,Presentation Supplies,1,$74.61 ,Edwards Edwards,Male,41-50,Concandox,$117.14 
+4/4/2015,Pet Supplies,1,$129.37 ,Thincio Thincio,Female,41-50,Bluefix,$217.34 
+5/4/2015,Health Care,1,$90.07 ,Jensen Jensen,Female,51-70,Duosoft,$109.89 
+5/4/2015,Jewelry Cleaning & Care,1,$82.71 ,Rolland Rolland,Male,27-40,Airing,$124.07 
+6/4/2015,Filing & Organization,1,$106.66 ,Salo Salo,Female,41-50,Airfind,$162.12 
+7/4/2015,Filing & Organization,1,$149.76 ,Freitas Freitas,Female,41-50,Alphais,$313.00 
+8/4/2015,Jewelry Cleaning & Care,1,$148.80 ,Russel Russel,Male,27-40,Donit,$261.89 
+9/4/2015,Baby Toys & Activity Equipment,1,$70.12 ,Rousse Rousse,Female,70+,Airfind,$129.72 
+10/4/2015,Luggage Accessories,1,$124.32 ,Rousse Rousse,Female,41-50,Biolab,$183.99 
+10/4/2015,Clothing,1,$44.48 ,Hart Hart,Female,27-40,Air-Nix,$82.29 
+11/4/2015,Games,1,$69.83 ,Rousse Rousse,Female,27-40,Donit,$87.29 
+11/4/2015,Bathroom Accessories,1,$72.09 ,Rhodes Rhodes,Female,41-50,Air-Nix,$109.58 
+12/4/2015,Food Items,1,$82.72 ,Olson Olson,Male,70+,Alpha La,$112.50 
+12/4/2015,Shoe Accessories,1,$130.87 ,Banks Banks,Male,51-70,Air-Nix,$269.59 
+13/04/2015,Household Appliances,1,$86.76 ,Jensen Jensen,Female,27-40,Donit,$126.67 
+14/04/2015,Baby Toys & Activity Equipment,1,$146.07 ,Rolland Rolland,Female,51-70,Donit,$274.61 
+14/04/2015,Linens & Bedding,1,$139.69 ,Russel Russel,Male,41-50,Donjob,$185.79 
+15/04/2015,Personal Care,1,$78.20 ,Thincio Thincio,Female,70+,Airfind,$154.05 
+17/04/2015,Diapering,1,$125.68 ,Banks Banks,Female,27-40,Airron,$169.67 
+17/04/2015,Book Accessories,1,$146.98 ,Rousse Rousse,Female,51-70,Airron,$282.20 
+18/04/2015,Filing & Organization,1,$118.72 ,Salo Salo,Male,41-50,Alphais,$239.81 
+18/04/2015,Filing & Organization,1,$141.18 ,Olson Olson,Female,27-40,Donit,$218.83 
+18/04/2015,Baby Toys & Activity Equipment,1,$39.12 ,Hwell Hwell,Female,70+,Air-Nix,$70.02 
+18/04/2015,Lighting Accessories,1,$91.48 ,Rolland Rolland,Male,27-40,Alphafind,$190.28 
+19/04/2015,Food Items,1,$46.92 ,Thincio Thincio,Female,27-40,Airron,$92.90 
+21/04/2015,Lighting,1,$128.91 ,Olson Olson,Male,27-40,Donit,$226.88 
+21/04/2015,Toys,1,$119.69 ,Lewis Lewis,Male,41-50,Alphais,$177.14 
+22/04/2015,Bathroom Accessories,1,$44.90 ,Banks Banks,Male,51-70,Bluefix,$58.82 
+22/04/2015,General Office Supplies,1,$116.02 ,Olson Olson,Male,27-40,Concandox,$203.04 
+22/04/2015,Baby Health,1,$39.79 ,Freitas Freitas,Male,27-40,Alphais,$66.05 
+22/04/2015,Household Supplies,1,$127.98 ,Edwards Edwards,Female,18-26,Duosoft,$252.12 
+23/04/2015,Diapering,1,$62.80 ,Jensen Jensen,Female,27-40,Airing,$128.74 
+23/04/2015,Linens & Bedding,1,$35.35 ,Rolland Rolland,Male,18-26,Duosoft,$73.17 
+26/04/2015,Bathroom Accessories,4,$18.77 ,Jensen Jensen,Female,27-40,Bigstring,$29.09 
+26/04/2015,Video,1,$33.57 ,Hart Hart,Male,41-50,Air-Nix,$59.42 
+26/04/2015,Outdoor Play Equipment,2,$20.04 ,Thompson Thompson,Female,41-50,Alphafind,$40.48 
+26/04/2015,Baby Health,4,$17.06 ,Russel Russel,Male,41-50,Biolab,$35.83 
+27/04/2015,"Flood, Fire & Gas Safety",1,$87.16 ,Carter Carter,Female,70+,Bluefix,$156.02 
+28/04/2015,Food Items,1,$26.05 ,Rousse Rousse,Female,41-50,Biolab,$38.55 
+29/04/2015,Lighting,1,$113.43 ,Lewis Lewis,Male,51-70,Air-Nix,$234.80 
+29/04/2015,Clothing Accessories,1,$62.65 ,Rousse Rousse,Female,27-40,Airron,$91.47 
+29/04/2015,Computers,1,$106.38 ,Russel Russel,Female,27-40,Alphais,$145.74 
+30/04/2015,Electronics Accessories,1,$64.29 ,Caron Caron,Male,18-26,Donit,$84.22 
+30/04/2015,Toys,1,$47.63 ,Freitas Freitas,Male,41-50,Bigstring,$97.64 
+1/5/2015,Toys,1,$42.96 ,Olson Olson,Female,18-26,Airing,$92.36 
+1/5/2015,Lighting,4,$18.37 ,Freitas Freitas,Male,27-40,Alpha La,$32.33 
+1/5/2015,Clothing Accessories,1,$143.91 ,Jensen Jensen,Female,51-70,Donit,$243.21 
+1/5/2015,"Print, Copy, Scan & Fax",1,$121.79 ,Banks Banks,Female,41-50,Donjob,$160.76 
+1/5/2015,Household Appliance Accessories,1,$127.94 ,Hwell Hwell,Female,41-50,Air-Nix,$230.29 
+2/5/2015,Office Instruments,1,$141.31 ,Hart Hart,Male,41-50,Alpha La,$302.40 
+2/5/2015,Electronics Accessories,1,$69.16 ,Jensen Jensen,Male,41-50,Bigstring,$105.81 
+3/5/2015,Household Supplies,1,$84.28 ,Hwell Hwell,Female,27-40,Alphafind,$172.77 
+3/5/2015,Health Care,1,$123.02 ,Rolland Rolland,Male,51-70,Alphais,$218.98 
+5/5/2015,Electronics Accessories,1,$72.96 ,Hart Hart,Male,51-70,Donjob,$119.65 
+5/5/2015,Food Items,1,$57.96 ,Rhodes Rhodes,Male,41-50,Alpha La,$75.93 
+5/5/2015,Electronics Accessories,4,$20.10 ,Edwards Edwards,Female,27-40,Biolab,$24.52 
+7/5/2015,Baby Toys & Activity Equipment,1,$92.06 ,Margaret Margaret,Female,27-40,Concandox,$177.68 
+9/5/2015,Baby Health,1,$144.83 ,Edwards Edwards,Male,27-40,Duosoft,$309.94 
+10/5/2015,Clothing Accessories,1,$58.87 ,Carter Carter,Female,27-40,Duosoft,$84.18 
+11/5/2015,Health Care,1,$98.80 ,Margaret Margaret,Female,18-26,Airing,$209.46 
+12/5/2015,Filing & Organization,1,$120.70 ,Rolland Rolland,Male,51-70,Alpha La,$162.95 
+13/05/2015,Office Instruments,1,$57.19 ,Caron Caron,Female,51-70,Alpha La,$122.39 
+14/05/2015,Presentation Supplies,1,$141.57 ,Rousse Rousse,Female,18-26,Bluefix,$191.12 
+14/05/2015,Toys,1,$107.34 ,Russel Russel,Female,27-40,Biolab,$185.70 
+15/05/2015,Clothing Accessories,1,$81.30 ,Thincio Thincio,Female,27-40,Alphais,$178.86 
+15/05/2015,Business & Home Security,1,$126.25 ,Hart Hart,Male,27-40,Airfind,$244.93 
+16/05/2015,Electronics Accessories,1,$116.63 ,Olson Olson,Male,27-40,Bigstring,$220.43 
+16/05/2015,Nursing & Feeding,1,$114.01 ,Lewis Lewis,Female,41-50,Alpha La,$222.32 
+17/05/2015,Product Manuals,1,$80.87 ,Rhodes Rhodes,Female,41-50,Airing,$100.28 
+17/05/2015,Clothing Accessories,1,$101.02 ,Salo Salo,Female,70+,Biolab,$154.56 
+18/05/2015,Plants,1,$133.90 ,Thompson Thompson,Male,27-40,Airing,$162.02 
+21/05/2015,Food Items,1,$32.54 ,Thompson Thompson,Female,18-26,Duosoft,$46.21 
+21/05/2015,Plants,1,$61.57 ,Caron Caron,Female,27-40,Alpha La,$88.05 
+21/05/2015,Pet Supplies,1,$108.05 ,Salo Salo,Male,27-40,Bluefix,$151.27 
+21/05/2015,Office Instruments,3,$22.05 ,Olson Olson,Male,51-70,Bigstring,$44.10 
+22/05/2015,General Office Supplies,2,$10.71 ,Banks Banks,Male,41-50,Airfind,$15.21 
+22/05/2015,Clothing,2,$12.43 ,Salo Salo,Male,27-40,Bigstring,$19.27 
+22/05/2015,Office Carts,1,$135.61 ,Salo Salo,Male,70+,Donit,$215.62 
+23/05/2015,Pet Supplies,1,$27.95 ,Olson Olson,Male,41-50,Air-Nix,$39.97 
+23/05/2015,Kitchen & Dining,1,$149.07 ,Carter Carter,Male,27-40,Donit,$232.55 
+23/05/2015,Electronics Accessories,1,$56.19 ,Edwards Edwards,Male,27-40,Alpha La,$117.44 
+23/05/2015,Presentation Supplies,1,$102.22 ,Freitas Freitas,Male,27-40,Donit,$193.20 
+25/05/2015,Jewelry Cleaning & Care,1,$108.58 ,Salo Salo,Male,27-40,Airron,$208.47 
+25/05/2015,Outdoor Play Equipment,1,$26.62 ,Hwell Hwell,Female,27-40,Donjob,$58.03 
+25/05/2015,GPS Accessories,1,$81.19 ,Russel Russel,Male,27-40,Alphais,$155.88 
+26/05/2015,Book Accessories,1,$66.22 ,Rousse Rousse,Female,27-40,Bluefix,$86.75 
+27/05/2015,Baby Toys & Activity Equipment,1,$40.25 ,Hwell Hwell,Female,41-50,Airron,$78.49 
+28/05/2015,Costumes & Accessories,2,$5.07 ,Caron Caron,Male,70+,Donjob,$10.75 
+28/05/2015,Pet Supplies,1,$84.93 ,Russel Russel,Male,27-40,Airfind,$172.41 
+28/05/2015,Bathroom Accessories,1,$76.56 ,Rolland Rolland,Male,41-50,Bluefix,$160.01 
+28/05/2015,Networking,1,$51.62 ,Hart Hart,Male,51-70,Concandox,$88.79 
+28/05/2015,General Office Supplies,1,$84.45 ,Olson Olson,Female,18-26,Airron,$185.79 
+29/05/2015,Games,1,$43.73 ,Banks Banks,Female,27-40,Duosoft,$63.85 
+30/05/2015,Toys,1,$60.83 ,Hart Hart,Male,18-26,Bigstring,$92.46 
+1/6/2015,Clothing Accessories,1,$140.53 ,Hart Hart,Male,18-26,Bluefix,$288.09 
+1/6/2015,Office Instruments,1,$136.15 ,Rousse Rousse,Female,18-26,Bluefix,$178.36 
+2/6/2015,Clothing Accessories,1,$47.24 ,Russel Russel,Female,41-50,Alphais,$89.28 
+3/6/2015,Toys,1,$50.11 ,Jensen Jensen,Female,51-70,Bigstring,$109.24 
+3/6/2015,Diapering,1,$27.95 ,Salo Salo,Female,51-70,Airron,$39.97 
+4/6/2015,Electronics Accessories,1,$30.48 ,Rhodes Rhodes,Male,18-26,Duosoft,$44.50 
+5/6/2015,Toys,1,$115.95 ,Hart Hart,Male,27-40,Concandox,$195.96 
+6/6/2015,Business & Home Security,1,$25.03 ,Rousse Rousse,Female,27-40,Donit,$38.80 
+7/6/2015,Bathroom Accessories,1,$119.18 ,Hwell Hwell,Male,27-40,Alphais,$252.66 
+7/6/2015,Nursing & Feeding,4,$23.96 ,Lewis Lewis,Male,70+,Air-Nix,$44.09 
+8/6/2015,Toys,1,$53.28 ,Rousse Rousse,Female,51-70,Bluefix,$85.78 
+8/6/2015,Electronics Accessories,1,$44.68 ,Edwards Edwards,Male,27-40,Alpha La,$58.98 
+9/6/2015,Diapering,1,$108.39 ,Salo Salo,Female,51-70,Airfind,$191.85 
+10/6/2015,"Print, Copy, Scan & Fax",1,$27.17 ,Olson Olson,Female,27-40,Airfind,$32.88 
+12/6/2015,Emergency Preparedness,1,$111.83 ,Hwell Hwell,Male,18-26,Alpha La,$139.79 
+12/6/2015,Outdoor Play Equipment,1,$28.16 ,Banks Banks,Female,27-40,Donjob,$54.91 
+15/06/2015,Pet Supplies,1,$109.21 ,Rousse Rousse,Male,18-26,Airron,$229.34 
+17/06/2015,"Print, Copy, Scan & Fax",1,$131.18 ,Lewis Lewis,Female,51-70,Donit,$165.29 
+17/06/2015,Health Care,1,$80.53 ,Hart Hart,Male,51-70,Duosoft,$174.75 
+17/06/2015,Pet Supplies,1,$12.02 ,Thincio Thincio,Female,27-40,Donjob,$19.95 
+18/06/2015,Food Items,1,$117.49 ,Caron Caron,Male,51-70,Airing,$210.31 
+19/06/2015,Clothing Accessories,1,$127.55 ,Rousse Rousse,Female,27-40,Donit,$253.82 
+19/06/2015,Pet Supplies,1,$35.77 ,Thompson Thompson,Female,41-50,Biolab,$56.16 
+19/06/2015,Pet Supplies,2,$22.20 ,Rolland Rolland,Female,27-40,Alpha La,$41.29 
+19/06/2015,Toys,2,$22.30 ,Rousse Rousse,Female,27-40,Bluefix,$41.26 
+22/06/2015,Health Care,1,$38.83 ,Carter Carter,Female,41-50,Airfind,$52.03 
+22/06/2015,Household Appliance Accessories,1,$71.56 ,Jensen Jensen,Female,70+,Alphafind,$138.83 
+23/06/2015,Filing & Organization,1,$66.17 ,Edwards Edwards,Female,27-40,Airfind,$114.47 
+23/06/2015,"Flood, Fire & Gas Safety",1,$136.71 ,Jensen Jensen,Female,27-40,Alpha La,$296.66 
+24/06/2015,Beverages,1,$78.49 ,Thincio Thincio,Male,27-40,Alpha La,$124.01 
+27/06/2015,Beverages,1,$95.73 ,Freitas Freitas,Female,27-40,Airing,$160.83 
+27/06/2015,Toys,1,$74.08 ,Rolland Rolland,Male,27-40,Bluefix,$117.79 
+28/06/2015,Business & Home Security,1,$27.30 ,Hwell Hwell,Female,18-26,Donjob,$42.32 
+28/06/2015,Pet Supplies,1,$37.93 ,Thincio Thincio,Female,27-40,Donit,$48.55 
+29/06/2015,Toys,1,$65.54 ,Olson Olson,Female,41-50,Airing,$83.24 
+29/06/2015,Toys,1,$51.99 ,Russel Russel,Female,27-40,Donjob,$62.39 
+29/06/2015,Health Care,1,$91.05 ,Carter Carter,Male,41-50,Alphafind,$149.32 
+29/06/2015,Toys,1,$136.69 ,Hart Hart,Female,27-40,Airfind,$272.01 
+29/06/2015,Communications,1,$27.43 ,Hart Hart,Male,51-70,Airing,$46.08 
+29/06/2015,Handbag & Wallet Accessories,1,$15.23 ,Thompson Thompson,Female,27-40,Bluefix,$29.70 
+30/06/2015,Pet Supplies,1,$115.67 ,Thincio Thincio,Male,41-50,Concandox,$226.71 
+30/06/2015,Food Items,3,$18.28 ,Thincio Thincio,Female,41-50,Alphais,$34.55 
+2/7/2015,Personal Care,1,$46.82 ,Salo Salo,Female,51-70,Bluefix,$59.46 
+2/7/2015,Lighting Accessories,1,$123.76 ,Hart Hart,Male,70+,Alphais,$178.21 
+3/7/2015,Household Appliances,1,$83.11 ,Caron Caron,Female,27-40,Concandox,$115.52 
+6/7/2015,Shipping Supplies,1,$77.64 ,Jensen Jensen,Male,70+,Biolab,$144.41 
+6/7/2015,Baby Transport Accessories,1,$36.13 ,Margaret Margaret,Female,41-50,Alphafind,$44.08 
+7/7/2015,Bathroom Accessories,1,$148.36 ,Rhodes Rhodes,Female,18-26,Concandox,$324.91 
+7/7/2015,Communications,1,$90.63 ,Olson Olson,Male,51-70,Duosoft,$189.42 
+8/7/2015,Bathroom Accessories,1,$53.11 ,Carter Carter,Female,27-40,Biolab,$112.59 
+8/7/2015,Health Care,1,$125.55 ,Jensen Jensen,Female,51-70,Air-Nix,$222.22 
+9/7/2015,Luggage Accessories,1,$94.39 ,Margaret Margaret,Female,51-70,Biolab,$197.28 
+9/7/2015,Clothing Accessories,1,$64.18 ,Rolland Rolland,Female,41-50,Alphafind,$78.94 
+11/7/2015,Bathroom Accessories,1,$90.15 ,Carter Carter,Female,51-70,Alphafind,$183.00 
+12/7/2015,Marine Electronics,1,$78.43 ,Olson Olson,Male,27-40,Alpha La,$166.27 
+12/7/2015,Beverages,1,$92.78 ,Lewis Lewis,Male,41-50,Airron,$173.50 
+14/07/2015,Household Appliance Accessories,1,$138.91 ,Carter Carter,Male,51-70,Bluefix,$240.31 
+14/07/2015,"Flood, Fire & Gas Safety",1,$97.83 ,Margaret Margaret,Male,41-50,Duosoft,$190.77 
+14/07/2015,Clothing Accessories,1,$34.59 ,Olson Olson,Male,51-70,Alphais,$58.11 
+15/07/2015,Personal Care,1,$93.28 ,Russel Russel,Male,51-70,Airing,$119.40 
+16/07/2015,Emergency Preparedness,4,$23.52 ,Freitas Freitas,Male,27-40,Air-Nix,$41.40 
+17/07/2015,Office Instruments,1,$89.70 ,Hart Hart,Female,27-40,Donjob,$114.82 
+17/07/2015,Baby Bathing,1,$147.60 ,Freitas Freitas,Male,41-50,Alphais,$180.07 
+17/07/2015,Office Instruments,1,$39.90 ,Hart Hart,Female,70+,Alphafind,$52.67 
+19/07/2015,Pet Supplies,1,$63.70 ,Hwell Hwell,Female,27-40,Duosoft,$129.95 
+20/07/2015,Electronics Accessories,1,$137.33 ,Rolland Rolland,Male,51-70,Airing,$289.77 
+20/07/2015,Household Supplies,1,$110.55 ,Jensen Jensen,Female,27-40,Biolab,$233.26 
+21/07/2015,Pet Supplies,1,$34.72 ,Jensen Jensen,Female,70+,Biolab,$42.36 
+21/07/2015,Communications,1,$51.59 ,Caron Caron,Male,41-50,Biolab,$65.00 
+21/07/2015,"Print, Copy, Scan & Fax",1,$119.61 ,Margaret Margaret,Male,27-40,Airing,$253.57 
+22/07/2015,Video,1,$49.68 ,Margaret Margaret,Male,27-40,Air-Nix,$100.85 
+22/07/2015,Luggage Accessories,1,$37.98 ,Caron Caron,Male,27-40,Air-Nix,$66.09 
+22/07/2015,Book Accessories,1,$116.83 ,Rousse Rousse,Female,27-40,Airfind,$154.22 
+22/07/2015,Clothing,1,$129.26 ,Jensen Jensen,Male,51-70,Airing,$248.18 
+23/07/2015,Office Carts,1,$105.87 ,Lewis Lewis,Male,41-50,Bluefix,$157.75 
+24/07/2015,Baby Bathing,1,$110.78 ,Margaret Margaret,Male,41-50,Airron,$239.28 
+25/07/2015,Business & Home Security,1,$90.23 ,Hart Hart,Male,70+,Airing,$155.20 
+25/07/2015,Clothing Accessories,1,$20.89 ,Banks Banks,Male,27-40,Airfind,$37.18 
+26/07/2015,Household Supplies,1,$48.34 ,Thompson Thompson,Female,27-40,Airfind,$58.01 
+27/07/2015,Games,1,$71.08 ,Rousse Rousse,Male,41-50,Alphais,$131.50 
+27/07/2015,Household Supplies,1,$146.27 ,Russel Russel,Male,41-50,Donjob,$190.15 
+28/07/2015,Lighting,1,$149.71 ,Carter Carter,Female,70+,Donjob,$199.11 
+29/07/2015,Clothing Accessories,1,$100.88 ,Jensen Jensen,Female,41-50,Biolab,$198.73 
+29/07/2015,Lawn & Garden,1,$29.15 ,Olson Olson,Female,51-70,Airfind,$51.01 
+30/07/2015,Personal Care,1,$78.10 ,Freitas Freitas,Male,41-50,Donit,$137.46 
+30/07/2015,Games,1,$147.09 ,Thompson Thompson,Female,51-70,Alpha La,$179.45 
+1/8/2015,Baby Toys & Activity Equipment,1,$28.68 ,Caron Caron,Female,27-40,Alpha La,$46.17 
+1/8/2015,Nursing & Feeding,1,$8.44 ,Banks Banks,Female,51-70,Concandox,$16.80 
+2/8/2015,Clothing Accessories,1,$143.97 ,Caron Caron,Male,51-70,Airfind,$249.07 
+2/8/2015,Outdoor Play Equipment,2,$21.15 ,Banks Banks,Male,27-40,Air-Nix,$27.71 
+3/8/2015,Baby Toys & Activity Equipment,1,$124.48 ,Hart Hart,Female,70+,Donit,$170.54 
+3/8/2015,Baby Toys & Activity Equipment,3,$13.34 ,Margaret Margaret,Female,27-40,Donit,$23.61 
+3/8/2015,Toys,1,$65.09 ,Banks Banks,Female,41-50,Concandox,$114.56 
+4/8/2015,Toys,1,$74.73 ,Thompson Thompson,Male,18-26,Donit,$91.92 
+4/8/2015,Clothing,1,$131.48 ,Salo Salo,Male,27-40,Donjob,$213.00 
+5/8/2015,Health Care,1,$56.91 ,Rousse Rousse,Male,27-40,Concandox,$108.13 
+6/8/2015,Filing & Organization,1,$142.97 ,Banks Banks,Female,70+,Biolab,$308.82 
+7/8/2015,Bathroom Accessories,1,$134.06 ,Edwards Edwards,Male,41-50,Bigstring,$280.19 
+7/8/2015,Toys,2,$19.17 ,Lewis Lewis,Male,51-70,Bigstring,$34.70 
+7/8/2015,Shoe Accessories,1,$83.28 ,Hwell Hwell,Female,18-26,Bluefix,$107.43 
+8/8/2015,Clothing,1,$75.24 ,Margaret Margaret,Male,51-70,Airron,$94.05 
+8/8/2015,Filing & Organization,2,$6.39 ,Caron Caron,Female,27-40,Donit,$9.46 
+8/8/2015,Personal Care,1,$60.08 ,Thompson Thompson,Male,27-40,Air-Nix,$122.56 
+10/8/2015,Bathroom Accessories,1,$48.89 ,Rolland Rolland,Female,70+,Airfind,$77.25 
+10/8/2015,Fireplace & Wood Stove Accessories,1,$65.02 ,Russel Russel,Male,70+,Donjob,$102.73 
+10/8/2015,Lighting,1,$40.04 ,Russel Russel,Male,70+,Donit,$76.08 
+10/8/2015,Clothing Accessories,1,$140.33 ,Margaret Margaret,Female,51-70,Donit,$239.96 
+10/8/2015,Lighting,1,$49.51 ,Lewis Lewis,Female,27-40,Concandox,$81.69 
+11/8/2015,Costumes & Accessories,1,$52.03 ,Lewis Lewis,Female,27-40,Airfind,$93.65 
+11/8/2015,Communications,1,$78.75 ,Freitas Freitas,Male,27-40,Air-Nix,$159.08 
+12/8/2015,Electronics Accessories,1,$81.15 ,Edwards Edwards,Male,70+,Donit,$110.36 
+13/08/2015,Pet Supplies,1,$89.78 ,Margaret Margaret,Female,27-40,Donjob,$193.03 
+14/08/2015,Diapering,1,$61.60 ,Banks Banks,Female,18-26,Airfind,$78.23 
+14/08/2015,Office Instruments,1,$64.70 ,Thompson Thompson,Female,70+,Donjob,$113.87 
+15/08/2015,Clothing,1,$98.57 ,Thompson Thompson,Male,27-40,Duosoft,$130.11 
+16/08/2015,Audio,1,$126.94 ,Hwell Hwell,Male,51-70,Biolab,$200.57 
+16/08/2015,Bathroom Accessories,1,$39.11 ,Hart Hart,Female,41-50,Airfind,$66.88 
+16/08/2015,Pet Supplies,4,$8.73 ,Olson Olson,Female,51-70,Concandox,$11.26 
+16/08/2015,General Office Supplies,1,$96.88 ,Thompson Thompson,Female,41-50,Biolab,$119.16 
+17/08/2015,Lighting,1,$30.92 ,Carter Carter,Female,27-40,Concandox,$64.31 
+18/08/2015,Personal Care,1,$73.70 ,Russel Russel,Female,41-50,Duosoft,$124.55 
+18/08/2015,Nursing & Feeding,1,$48.62 ,Caron Caron,Male,27-40,Bigstring,$59.80 
+19/08/2015,Clothing,1,$121.58 ,Thompson Thompson,Male,51-70,Alphais,$150.76 
+19/08/2015,Audio,1,$132.24 ,Salo Salo,Male,70+,Donit,$285.64 
+20/08/2015,Toys,1,$149.05 ,Russel Russel,Male,27-40,Donjob,$262.33 
+21/08/2015,Baby Transport Accessories,1,$41.18 ,Salo Salo,Female,51-70,Airron,$73.71 
+22/08/2015,Plants,1,$91.56 ,Thompson Thompson,Male,51-70,Duosoft,$173.05 
+22/08/2015,General Office Supplies,1,$146.22 ,Freitas Freitas,Female,41-50,Alphais,$175.46 
+22/08/2015,Electronics Accessories,1,$112.90 ,Caron Caron,Male,27-40,Bluefix,$173.87 
+22/08/2015,Fireplace & Wood Stove Accessories,1,$108.62 ,Hwell Hwell,Male,27-40,Concandox,$206.38 
+22/08/2015,Clothing,1,$57.53 ,Banks Banks,Male,51-70,Alphafind,$92.62 
+23/08/2015,Plants,1,$61.40 ,Banks Banks,Female,41-50,Donit,$100.08 
+23/08/2015,Nursing & Feeding,1,$90.40 ,Rousse Rousse,Male,27-40,Airron,$121.14 
+24/08/2015,Household Supplies,1,$97.16 ,Margaret Margaret,Female,51-70,Alphais,$116.59 
+24/08/2015,Filing & Organization,1,$33.63 ,Hart Hart,Male,27-40,Airfind,$44.73 
+24/08/2015,Personal Care,1,$93.98 ,Thincio Thincio,Female,27-40,Concandox,$175.74 
+25/08/2015,Toys,1,$101.72 ,Margaret Margaret,Female,27-40,Donit,$223.78 
+26/08/2015,Electronics Accessories,1,$123.42 ,Salo Salo,Male,51-70,Airing,$253.01 
+27/08/2015,Toys,1,$136.71 ,Lewis Lewis,Male,18-26,Alpha La,$243.34 
+29/08/2015,Business & Home Security,1,$42.87 ,Thompson Thompson,Female,27-40,Alphafind,$87.03 
+29/08/2015,Jewelry Cleaning & Care,1,$149.83 ,Hart Hart,Male,51-70,Donit,$200.77 
+30/08/2015,Business & Home Security,1,$68.59 ,Hwell Hwell,Female,27-40,Donjob,$131.01 
+30/08/2015,Clothing Accessories,1,$39.11 ,Freitas Freitas,Male,18-26,Bluefix,$51.63 
+31/08/2015,Paper Handling,1,$85.97 ,Hart Hart,Female,41-50,Concandox,$124.66 
+31/08/2015,Puzzles,1,$29.39 ,Banks Banks,Female,27-40,Bluefix,$51.14 
+1/9/2015,Office Instruments,1,$136.30 ,Banks Banks,Female,70+,Airfind,$279.42 
+1/9/2015,Business & Home Security,1,$148.32 ,Rolland Rolland,Female,27-40,Donit,$305.54 
+2/9/2015,"Print, Copy, Scan & Fax",1,$25.07 ,Rousse Rousse,Female,51-70,Donit,$45.88 
+2/9/2015,Office Instruments,1,$92.87 ,Caron Caron,Female,41-50,Donit,$168.09 
+2/9/2015,Pet Supplies,1,$44.67 ,Jensen Jensen,Male,27-40,Concandox,$66.11 
+2/9/2015,Filing & Organization,1,$136.59 ,Hart Hart,Male,27-40,Airfind,$174.84 
+2/9/2015,Diapering,1,$120.69 ,Rolland Rolland,Male,27-40,Donit,$242.59 
+3/9/2015,Household Supplies,1,$63.45 ,Caron Caron,Male,70+,Biolab,$93.27 
+4/9/2015,Video,1,$54.57 ,Caron Caron,Female,18-26,Concandox,$111.32 
+4/9/2015,General Office Supplies,1,$109.87 ,Lewis Lewis,Female,27-40,Bluefix,$226.33 
+4/9/2015,Baby Safety,1,$127.17 ,Hwell Hwell,Female,51-70,Donit,$194.57 
+6/9/2015,Product Manuals,1,$98.83 ,Rhodes Rhodes,Male,41-50,Alphafind,$142.32 
+6/9/2015,Household Supplies,1,$108.85 ,Thompson Thompson,Male,27-40,Air-Nix,$201.37 
+7/9/2015,Outdoor Play Equipment,1,$31.52 ,Edwards Edwards,Male,51-70,Bigstring,$52.01 
+9/9/2015,Outdoor Play Equipment,1,$58.42 ,Rolland Rolland,Female,27-40,Airfind,$125.60 
+9/9/2015,Video,1,$34.01 ,Carter Carter,Female,27-40,Alphafind,$60.54 
+10/9/2015,Pet Supplies,1,$60.85 ,Lewis Lewis,Female,70+,Alphafind,$116.22 
+10/9/2015,Toys,1,$63.16 ,Caron Caron,Female,70+,Alphafind,$83.37 
+10/9/2015,Health Care,1,$43.09 ,Hart Hart,Female,70+,Concandox,$77.99 
+10/9/2015,Household Supplies,1,$137.09 ,Banks Banks,Female,41-50,Bluefix,$300.23 
+12/9/2015,Pet Supplies,1,$142.63 ,Edwards Edwards,Male,27-40,Airfind,$310.93 
+12/9/2015,Office Instruments,1,$27.73 ,Margaret Margaret,Male,18-26,Airfind,$60.17 
+13/09/2015,Baby Transport,1,$123.49 ,Russel Russel,Male,27-40,Alpha La,$200.05 
+15/09/2015,Presentation Supplies,1,$127.65 ,Olson Olson,Female,27-40,Alphafind,$266.79 
+16/09/2015,Toys,1,$90.69 ,Rhodes Rhodes,Male,18-26,Air-Nix,$191.36 
+16/09/2015,Puzzles,1,$34.11 ,Rhodes Rhodes,Male,41-50,Bluefix,$65.15 
+16/09/2015,Shoe Accessories,1,$148.02 ,Freitas Freitas,Female,41-50,Airron,$217.59 
+17/09/2015,Games,4,$22.81 ,Hwell Hwell,Male,18-26,Bluefix,$37.18 
+17/09/2015,Marine Electronics,1,$121.80 ,Banks Banks,Female,41-50,Airfind,$226.55 
+17/09/2015,Video,1,$59.53 ,Olson Olson,Male,41-50,Alpha La,$111.92 
+18/09/2015,"Handbags, Wallets & Cases",1,$114.31 ,Russel Russel,Female,18-26,Airron,$218.33 
+19/09/2015,Shipping Supplies,3,$16.51 ,Edwards Edwards,Female,41-50,Donit,$33.52 
+19/09/2015,Lawn & Garden,1,$71.02 ,Olson Olson,Female,51-70,Concandox,$90.20 
+19/09/2015,Bathroom Accessories,1,$89.94 ,Thincio Thincio,Female,27-40,Bigstring,$190.67 
+20/09/2015,Bathroom Accessories,1,$45.09 ,Rolland Rolland,Male,70+,Alphafind,$55.46 
+21/09/2015,Plants,1,$48.43 ,Caron Caron,Male,27-40,Concandox,$99.28 
+23/09/2015,General Office Supplies,1,$93.13 ,Salo Salo,Male,41-50,Donjob,$200.23 
+23/09/2015,Household Appliances,1,$120.10 ,Lewis Lewis,Male,27-40,Airron,$189.76 
+24/09/2015,Outdoor Play Equipment,1,$62.82 ,Rolland Rolland,Male,51-70,Duosoft,$98.63 
+25/09/2015,Handbag & Wallet Accessories,1,$82.81 ,Freitas Freitas,Male,41-50,Donit,$121.73 
+26/09/2015,Video,1,$62.01 ,Hwell Hwell,Female,51-70,Donit,$130.22 
+26/09/2015,Office Instruments,1,$93.16 ,Thompson Thompson,Male,41-50,Air-Nix,$202.16 
+26/09/2015,Audio,1,$61.21 ,Rolland Rolland,Female,51-70,Alphafind,$115.69 
+27/09/2015,Costumes & Accessories,4,$5.96 ,Banks Banks,Male,41-50,Airing,$11.74 
+28/09/2015,General Office Supplies,1,$41.68 ,Rousse Rousse,Male,27-40,Bluefix,$68.77 
+28/09/2015,Bathroom Accessories,1,$84.56 ,Hwell Hwell,Female,41-50,Bluefix,$121.77 
+28/09/2015,Office Carts,1,$55.57 ,Edwards Edwards,Male,41-50,Donjob,$94.47 
+30/09/2015,Toys,1,$114.70 ,Margaret Margaret,Female,18-26,Duosoft,$200.73 
+30/09/2015,Household Appliances,1,$72.99 ,Olson Olson,Male,18-26,Donjob,$136.49 
+30/09/2015,Clothing,1,$65.99 ,Margaret Margaret,Male,51-70,Alphafind,$86.45 
+1/10/2015,Household Appliances,1,$52.99 ,Russel Russel,Female,41-50,Duosoft,$89.02 
+1/10/2015,Diapering,1,$141.39 ,Lewis Lewis,Male,41-50,Alphais,$306.82 
+1/10/2015,Emergency Preparedness,1,$112.16 ,Russel Russel,Male,41-50,Airfind,$208.62 
+3/10/2015,Circuit Boards & Components,1,$61.69 ,Salo Salo,Male,70+,Biolab,$130.78 
+5/10/2015,Computers,1,$144.92 ,Olson Olson,Female,51-70,Duosoft,$184.05 
+5/10/2015,Lighting Accessories,1,$35.49 ,Olson Olson,Female,27-40,Alphais,$62.11 
+5/10/2015,Office Instruments,1,$138.64 ,Caron Caron,Female,70+,Airron,$199.64 
+6/10/2015,Clothing Accessories,1,$44.07 ,Lewis Lewis,Female,41-50,Alpha La,$84.17 
+6/10/2015,Electronics Accessories,1,$146.55 ,Hwell Hwell,Female,27-40,Alpha La,$202.24 
+7/10/2015,Lawn & Garden,1,$110.35 ,Rousse Rousse,Male,41-50,Biolab,$204.15 
+7/10/2015,Toys,1,$40.15 ,Jensen Jensen,Male,41-50,Bluefix,$58.22 
+7/10/2015,Paper Handling,1,$114.18 ,Lewis Lewis,Male,41-50,Alphais,$246.63 
+7/10/2015,Office Instruments,1,$130.71 ,Salo Salo,Male,18-26,Duosoft,$249.66 
+8/10/2015,Baby Bathing,1,$40.23 ,Thompson Thompson,Female,41-50,Airron,$48.28 
+9/10/2015,Pet Supplies,1,$81.90 ,Margaret Margaret,Female,51-70,Bluefix,$176.90 
+11/10/2015,Bathroom Accessories,1,$85.17 ,Rousse Rousse,Female,27-40,Duosoft,$184.82 
+12/10/2015,Kitchen & Dining,1,$107.57 ,Margaret Margaret,Female,27-40,Concandox,$151.67 
+12/10/2015,Product Manuals,1,$62.56 ,Salo Salo,Male,27-40,Bluefix,$131.38 
+12/10/2015,Video,1,$58.36 ,Rhodes Rhodes,Male,41-50,Airing,$117.30 
+13/10/2015,Kitchen & Dining,1,$79.70 ,Caron Caron,Female,41-50,Air-Nix,$148.24 
+15/10/2015,Personal Care,1,$49.10 ,Thincio Thincio,Male,41-50,Air-Nix,$59.41 
+16/10/2015,Food Items,1,$39.62 ,Salo Salo,Female,27-40,Airfind,$56.66 
+16/10/2015,Household Supplies,1,$82.48 ,Thincio Thincio,Female,18-26,Biolab,$110.52 
+16/10/2015,Household Appliance Accessories,1,$32.02 ,Lewis Lewis,Male,27-40,Bluefix,$66.92 
+17/10/2015,Food Items,3,$23.46 ,Edwards Edwards,Female,27-40,Donjob,$43.17 
+17/10/2015,Nursing & Feeding,1,$105.31 ,Margaret Margaret,Female,27-40,Concandox,$132.69 
+18/10/2015,Plants,1,$34.30 ,Lewis Lewis,Female,18-26,Biolab,$44.93 
+18/10/2015,Clothing,1,$31.53 ,Olson Olson,Female,27-40,Donit,$44.46 
+18/10/2015,Health Care,1,$42.14 ,Carter Carter,Male,70+,Alpha La,$62.37 
+20/10/2015,Lighting,1,$102.30 ,Hwell Hwell,Male,27-40,Duosoft,$221.99 
+20/10/2015,Electronics Accessories,1,$109.07 ,Rhodes Rhodes,Female,27-40,Concandox,$137.43 
+24/10/2015,Baby Transport Accessories,1,$54.32 ,Caron Caron,Male,51-70,Alphafind,$99.41 
+25/10/2015,Beverages,5,$15.70 ,Thincio Thincio,Female,27-40,Duosoft,$30.46 
+26/10/2015,Emergency Preparedness,1,$46.32 ,Rhodes Rhodes,Female,41-50,Biolab,$80.13 
+26/10/2015,Baby Toys & Activity Equipment,1,$66.82 ,Thincio Thincio,Female,41-50,Airing,$128.96 
+27/10/2015,Household Appliance Accessories,1,$62.63 ,Thompson Thompson,Female,27-40,Donjob,$88.93 
+27/10/2015,Household Appliances,1,$57.84 ,Hwell Hwell,Female,27-40,Airfind,$87.34 
+27/10/2015,Networking,1,$29.03 ,Rousse Rousse,Female,51-70,Concandox,$36.87 
+28/10/2015,Clothing,1,$28.01 ,Rousse Rousse,Female,27-40,Bigstring,$43.42 
+29/10/2015,Paper Handling,1,$127.68 ,Lewis Lewis,Male,27-40,Alpha La,$268.13 
+29/10/2015,Bathroom Accessories,1,$140.34 ,Thompson Thompson,Male,27-40,Donjob,$245.60 
+29/10/2015,Video,1,$13.97 ,Thompson Thompson,Female,27-40,Concandox,$30.04 
+30/10/2015,"Handbags, Wallets & Cases",1,$50.95 ,Russel Russel,Female,27-40,Air-Nix,$65.73 
+30/10/2015,GPS Accessories,1,$136.93 ,Margaret Margaret,Female,70+,Duosoft,$293.03 
+30/10/2015,Health Care,1,$99.19 ,Freitas Freitas,Female,51-70,Donit,$139.86 
+31/10/2015,Clothing Accessories,1,$68.90 ,Freitas Freitas,Female,70+,Airing,$145.38 
+4/11/2015,Video,1,$93.93 ,Carter Carter,Male,18-26,Biolab,$193.50 
+4/11/2015,Marine Electronics,1,$114.47 ,Rolland Rolland,Male,51-70,Air-Nix,$147.67 
+4/11/2015,Nursing & Feeding,3,$6.91 ,Freitas Freitas,Female,51-70,Donit,$9.81 
+5/11/2015,Video,1,$125.02 ,Edwards Edwards,Male,41-50,Donjob,$257.54 
+6/11/2015,Office Instruments,3,$5.07 ,Caron Caron,Male,41-50,Alphafind,$7.55 
+7/11/2015,Clothing Accessories,1,$131.45 ,Rousse Rousse,Female,27-40,Alpha La,$224.78 
+7/11/2015,Toys,1,$54.21 ,Jensen Jensen,Male,41-50,Airing,$90.53 
+8/11/2015,Clothing Accessories,1,$86.85 ,Edwards Edwards,Male,41-50,Donit,$152.86 
+9/11/2015,Shoe Accessories,1,$53.04 ,Caron Caron,Male,51-70,Alphais,$80.62 
+9/11/2015,Household Appliance Accessories,1,$49.94 ,Olson Olson,Male,27-40,Duosoft,$82.90 
+11/11/2015,Plants,1,$45.42 ,Rousse Rousse,Female,27-40,Airfind,$74.49 
+11/11/2015,Household Appliances,5,$23.77 ,Jensen Jensen,Female,27-40,Biolab,$45.40 
+12/11/2015,Outdoor Play Equipment,1,$26.88 ,Jensen Jensen,Male,51-70,Donjob,$50.80 
+12/11/2015,Diapering,1,$99.50 ,Russel Russel,Female,27-40,Alphais,$195.02 
+12/11/2015,Pet Supplies,5,$6.37 ,Thompson Thompson,Female,41-50,Alphafind,$12.42 
+13/11/2015,Health Care,1,$40.06 ,Hwell Hwell,Female,18-26,Alphais,$70.51 
+13/11/2015,Jewelry Cleaning & Care,4,$14.06 ,Olson Olson,Female,18-26,Biolab,$27.28 
+13/11/2015,Office Carts,5,$7.58 ,Hwell Hwell,Male,27-40,Biolab,$11.67 
+15/11/2015,"Flood, Fire & Gas Safety",1,$93.10 ,Margaret Margaret,Male,41-50,Airron,$169.44 
+15/11/2015,Luggage Accessories,1,$94.64 ,Thincio Thincio,Male,27-40,Air-Nix,$142.91 
+16/11/2015,Potty Training,1,$108.32 ,Margaret Margaret,Male,51-70,Bluefix,$233.97 
+16/11/2015,Clothing,1,$105.84 ,Salo Salo,Female,18-26,Airron,$220.15 
+17/11/2015,Diapering,1,$133.23 ,Rhodes Rhodes,Male,18-26,Bluefix,$211.84 
+17/11/2015,Nursing & Feeding,1,$137.00 ,Edwards Edwards,Female,27-40,Alphafind,$224.68 
+18/11/2015,Baby Transport,1,$89.36 ,Carter Carter,Female,27-40,Alphais,$164.42 
+18/11/2015,Lighting Accessories,5,$15.09 ,Olson Olson,Male,27-40,Donit,$20.52 
+19/11/2015,Health Care,5,$23.23 ,Edwards Edwards,Female,41-50,Airron,$36.01 
+19/11/2015,Clothing Accessories,1,$81.80 ,Salo Salo,Male,41-50,Alphais,$144.79 
+19/11/2015,Office Equipment,1,$64.14 ,Hart Hart,Male,27-40,Airing,$80.18 
+20/11/2015,"Handbags, Wallets & Cases",1,$131.19 ,Banks Banks,Male,27-40,Bigstring,$158.74 
+22/11/2015,Circuit Boards & Components,1,$113.06 ,Hwell Hwell,Female,41-50,Air-Nix,$223.86 
+22/11/2015,Baby Toys & Activity Equipment,1,$99.22 ,Olson Olson,Male,70+,Biolab,$171.65 
+23/11/2015,Video,1,$145.34 ,Rousse Rousse,Female,51-70,Biolab,$279.05 
+23/11/2015,Jewelry Cleaning & Care,1,$50.47 ,Hwell Hwell,Female,70+,Donit,$71.16 
+23/11/2015,Food Items,1,$30.26 ,Freitas Freitas,Female,51-70,Alphais,$51.14 
+24/11/2015,Circuit Boards & Components,1,$86.14 ,Freitas Freitas,Male,70+,Alphafind,$120.60 
+24/11/2015,Household Appliances,1,$31.15 ,Russel Russel,Male,41-50,Donit,$57.00 
+25/11/2015,Presentation Supplies,1,$146.31 ,Rolland Rolland,Female,41-50,Bigstring,$297.01 
+25/11/2015,Baby Health,1,$95.78 ,Jensen Jensen,Female,27-40,Alphais,$124.51 
+26/11/2015,Health Care,1,$122.04 ,Freitas Freitas,Female,18-26,Donit,$225.77 
+27/11/2015,Food Items,1,$42.38 ,Carter Carter,Male,41-50,Donit,$90.69 
+27/11/2015,GPS Accessories,1,$29.32 ,Caron Caron,Male,27-40,Donit,$48.67 
+27/11/2015,Video,1,$131.56 ,Caron Caron,Male,41-50,Air-Nix,$260.49 
+28/11/2015,Pet Supplies,5,$14.07 ,Salo Salo,Male,41-50,Airfind,$23.22 
+28/11/2015,Toys,1,$95.68 ,Salo Salo,Female,70+,Donit,$145.43 
+29/11/2015,Pet Supplies,1,$57.08 ,Banks Banks,Male,41-50,Duosoft,$123.29 
+29/11/2015,Plants,1,$147.04 ,Margaret Margaret,Female,51-70,Donit,$267.61 
+30/11/2015,Outdoor Play Equipment,1,$37.07 ,Rhodes Rhodes,Male,70+,Biolab,$70.80 
+1/12/2015,Pet Supplies,1,$97.74 ,Caron Caron,Female,27-40,Bluefix,$125.11 
+1/12/2015,Presentation Supplies,1,$33.74 ,Thompson Thompson,Female,41-50,Duosoft,$70.18 
+1/12/2015,Computers,1,$92.55 ,Russel Russel,Female,51-70,Donjob,$201.76 
+2/12/2015,Luggage Accessories,1,$36.34 ,Hwell Hwell,Male,27-40,Alphais,$48.70 
+2/12/2015,Computers,1,$118.77 ,Thincio Thincio,Female,18-26,Alphafind,$213.79 
+3/12/2015,Household Appliances,1,$123.25 ,Salo Salo,Male,27-40,Air-Nix,$218.15 
+4/12/2015,Clothing Accessories,1,$70.21 ,Salo Salo,Female,51-70,Alphafind,$122.17 
+5/12/2015,Filing & Organization,1,$149.69 ,Edwards Edwards,Male,70+,Alphafind,$279.92 
+6/12/2015,Lawn & Garden,1,$92.91 ,Edwards Edwards,Male,27-40,Concandox,$201.61 
+6/12/2015,Clothing Accessories,1,$132.34 ,Salo Salo,Male,70+,Air-Nix,$285.85 
+7/12/2015,Computers,3,$7.48 ,Salo Salo,Male,51-70,Biolab,$16.31 
+7/12/2015,Health Care,1,$90.06 ,Margaret Margaret,Female,27-40,Concandox,$159.41 
+7/12/2015,Office Equipment,1,$91.71 ,Russel Russel,Male,51-70,Airfind,$140.32 
+8/12/2015,Food Items,1,$68.02 ,Thincio Thincio,Female,41-50,Airron,$125.84 
+9/12/2015,Office Equipment,1,$121.01 ,Lewis Lewis,Male,51-70,Concandox,$223.87 
+11/12/2015,Business & Home Security,1,$66.87 ,Rolland Rolland,Female,27-40,Bigstring,$107.66 
+11/12/2015,Handbag & Wallet Accessories,1,$114.49 ,Hwell Hwell,Male,27-40,Donjob,$180.89 
+11/12/2015,Puzzles,1,$42.27 ,Thompson Thompson,Male,18-26,Airing,$51.57 
+12/12/2015,Household Appliance Accessories,1,$35.58 ,Russel Russel,Male,51-70,Bluefix,$66.53 
+13/12/2015,"Flood, Fire & Gas Safety",1,$143.88 ,Russel Russel,Male,27-40,Duosoft,$185.61 
+13/12/2015,Book Accessories,1,$65.47 ,Freitas Freitas,Female,27-40,Concandox,$139.45 
+13/12/2015,Office Instruments,5,$14.94 ,Rhodes Rhodes,Male,27-40,Donjob,$27.34 
+15/12/2015,Beverages,1,$22.63 ,Salo Salo,Male,27-40,Alphafind,$32.59 
+15/12/2015,Electronics Accessories,1,$121.38 ,Hart Hart,Female,70+,Bluefix,$189.35 
+15/12/2015,Communications,1,$40.21 ,Jensen Jensen,Male,51-70,Airing,$72.78 
+17/12/2015,Components,1,$33.87 ,Rousse Rousse,Female,18-26,Concandox,$47.08 
+18/12/2015,"Handbags, Wallets & Cases",1,$135.15 ,Salo Salo,Male,41-50,Alphais,$224.35 
+19/12/2015,Filing & Organization,5,$7.95 ,Edwards Edwards,Female,41-50,Airron,$11.85 
+20/12/2015,Communications,1,$9.92 ,Russel Russel,Female,27-40,Concandox,$14.28 
+21/12/2015,Office Carts,1,$33.85 ,Caron Caron,Male,70+,Alphafind,$64.99 
+22/12/2015,Pet Supplies,2,$5.82 ,Jensen Jensen,Male,27-40,Donit,$9.31 
+22/12/2015,Pet Supplies,1,$105.61 ,Rhodes Rhodes,Male,18-26,Bigstring,$173.20 
+23/12/2015,Toys,1,$44.77 ,Rhodes Rhodes,Male,41-50,Donit,$89.54 
+23/12/2015,Nursing & Feeding,1,$65.63 ,Rolland Rolland,Male,27-40,Donit,$135.85 
+23/12/2015,Pet Supplies,1,$45.91 ,Carter Carter,Male,41-50,Duosoft,$88.61 
+24/12/2015,Baby Transport,1,$44.88 ,Hwell Hwell,Female,27-40,Alpha La,$92.00 
+25/12/2015,Clothing,1,$47.95 ,Freitas Freitas,Male,27-40,Donit,$90.15 
+26/12/2015,Clothing Accessories,1,$80.40 ,Rhodes Rhodes,Male,27-40,Alpha La,$169.64 
+26/12/2015,Household Appliances,5,$19.89 ,Rousse Rousse,Male,41-50,Donit,$40.77 
+27/12/2015,Household Supplies,1,$101.91 ,Rousse Rousse,Female,27-40,Airing,$135.54 
+28/12/2015,Household Supplies,4,$6.06 ,Margaret Margaret,Female,51-70,Alphafind,$7.51 
+28/12/2015,Pet Supplies,1,$62.65 ,Russel Russel,Male,27-40,Alphafind,$98.36 
+30/12/2015,Lighting,1,$125.02 ,Lewis Lewis,Male,51-70,Donit,$221.29 
+31/12/2015,Clothing,1,$123.27 ,Olson Olson,Male,27-40,Alphafind,$189.84 
+31/12/2015,Components,1,$70.95 ,Margaret Margaret,Female,27-40,Duosoft,$101.46 
+31/12/2015,Components,1,$40.85 ,Olson Olson,Female,27-40,Donit,$69.04 
+2/1/2016,Household Supplies,1,$79.84 ,Hart Hart,Female,51-70,Bigstring,$95.81 
+3/1/2016,Food Items,1,$140.49 ,Hart Hart,Male,27-40,Biolab,$255.69 
+3/1/2016,Household Appliance Accessories,1,$118.26 ,Margaret Margaret,Female,41-50,Alphafind,$210.50 
+4/1/2016,Household Supplies,1,$63.21 ,Hart Hart,Female,41-50,Airron,$109.99 
+6/1/2016,Food Items,1,$66.63 ,Carter Carter,Female,41-50,Alphais,$87.29 
+6/1/2016,General Office Supplies,1,$97.71 ,Thompson Thompson,Male,51-70,Airron,$151.45 
+6/1/2016,Clothing,1,$102.53 ,Caron Caron,Male,27-40,Alphais,$225.57 
+7/1/2016,Health Care,1,$72.86 ,Jensen Jensen,Female,51-70,Alphais,$88.16 
+8/1/2016,Personal Care,1,$27.69 ,Olson Olson,Female,18-26,Duosoft,$57.32 
+9/1/2016,Office Equipment,1,$147.85 ,Edwards Edwards,Male,51-70,Donit,$230.65 
+9/1/2016,Product Manuals,1,$61.77 ,Edwards Edwards,Male,27-40,Bluefix,$122.92 
+10/1/2016,Filing & Organization,1,$38.39 ,Thompson Thompson,Male,41-50,Bigstring,$73.71 
+11/1/2016,Lawn & Garden,2,$7.52 ,Margaret Margaret,Female,27-40,Bigstring,$10.75 
+11/1/2016,Book Accessories,1,$108.19 ,Jensen Jensen,Female,51-70,Donjob,$185.00 
+12/1/2016,Fireplace & Wood Stove Accessories,1,$33.61 ,Lewis Lewis,Male,51-70,Airing,$46.05 
+12/1/2016,Clothing Accessories,1,$83.92 ,Russel Russel,Male,41-50,Biolab,$100.70 
+13/01/2016,Office Equipment,1,$105.49 ,Thincio Thincio,Female,51-70,Bluefix,$148.74 
+13/01/2016,Baby Health,1,$12.41 ,Lewis Lewis,Male,27-40,Alphais,$21.59 
+13/01/2016,Clothing,1,$48.34 ,Caron Caron,Male,51-70,Alphafind,$60.91 
+14/01/2016,Toys,3,$20.53 ,Edwards Edwards,Male,18-26,Donit,$32.23 
+14/01/2016,Marine Electronics,1,$103.66 ,Lewis Lewis,Female,27-40,Duosoft,$145.12 
+15/01/2016,Bathroom Accessories,1,$72.87 ,Rousse Rousse,Female,27-40,Donit,$125.34 
+15/01/2016,Lawn & Garden,1,$56.59 ,Edwards Edwards,Female,51-70,Alphafind,$78.09 
+15/01/2016,Games,1,$128.02 ,Freitas Freitas,Female,18-26,Donit,$163.87 
+15/01/2016,Bathroom Accessories,3,$20.75 ,Jensen Jensen,Female,41-50,Alphafind,$44.20 
+16/01/2016,Business & Home Security,1,$99.59 ,Freitas Freitas,Female,18-26,Air-Nix,$185.24 
+17/01/2016,Pet Supplies,1,$139.83 ,Rhodes Rhodes,Male,18-26,Concandox,$246.10 
+17/01/2016,Nursing & Feeding,1,$25.99 ,Edwards Edwards,Female,41-50,Biolab,$32.23 
+18/01/2016,Filing & Organization,1,$115.76 ,Freitas Freitas,Male,51-70,Alphais,$179.43 
+18/01/2016,Baby Transport,1,$56.81 ,Salo Salo,Female,70+,Donit,$101.69 
+18/01/2016,Jewelry Cleaning & Care,1,$90.55 ,Freitas Freitas,Male,27-40,Alphais,$136.73 
+18/01/2016,Nursing & Feeding,1,$125.31 ,Rolland Rolland,Male,27-40,Biolab,$214.28 
+20/01/2016,Household Supplies,1,$98.31 ,Jensen Jensen,Female,18-26,Alphafind,$191.70 
+22/01/2016,Pet Supplies,1,$126.62 ,Freitas Freitas,Female,51-70,Donit,$163.34 
+23/01/2016,Games,1,$73.20 ,Jensen Jensen,Female,41-50,Donit,$111.26 
+23/01/2016,Baby Transport Accessories,1,$101.36 ,Edwards Edwards,Female,27-40,Bluefix,$208.80 
+23/01/2016,Health Care,1,$125.16 ,Russel Russel,Male,41-50,Air-Nix,$241.56 
+23/01/2016,Marine Electronics,1,$109.25 ,Salo Salo,Male,27-40,Air-Nix,$151.86 
+24/01/2016,"Handbags, Wallets & Cases",1,$59.72 ,Edwards Edwards,Female,27-40,Concandox,$118.84 
+26/01/2016,Office Equipment,1,$122.97 ,Salo Salo,Male,41-50,Duosoft,$232.41 
+28/01/2016,Computers,1,$132.52 ,Hart Hart,Female,70+,Biolab,$259.74 
+28/01/2016,Office Equipment,5,$11.32 ,Banks Banks,Female,27-40,Alphais,$18.00 
+29/01/2016,Book Accessories,1,$112.61 ,Rhodes Rhodes,Male,41-50,Duosoft,$190.31 
+29/01/2016,Outdoor Play Equipment,1,$64.08 ,Freitas Freitas,Male,70+,Duosoft,$124.32 
+29/01/2016,Business & Home Security,1,$11.63 ,Hart Hart,Female,18-26,Bigstring,$23.26 
+29/01/2016,Linens & Bedding,1,$111.55 ,Jensen Jensen,Male,27-40,Airron,$198.56 
+1/2/2016,Health Care,1,$106.03 ,Edwards Edwards,Female,41-50,Alphais,$178.13 
+2/2/2016,Lighting,1,$148.71 ,Lewis Lewis,Female,41-50,Donit,$266.19 
+2/2/2016,Pet Supplies,1,$115.02 ,Freitas Freitas,Male,51-70,Biolab,$169.08 
+4/2/2016,Product Manuals,1,$86.58 ,Rousse Rousse,Female,51-70,Bluefix,$110.82 
+8/2/2016,Personal Care,3,$12.82 ,Thompson Thompson,Male,18-26,Bigstring,$17.56 
+8/2/2016,Toys,1,$145.46 ,Olson Olson,Male,51-70,Duosoft,$317.10 
+9/2/2016,Nursing & Feeding,1,$103.12 ,Caron Caron,Male,51-70,Alphafind,$140.24 
+9/2/2016,Jewelry Cleaning & Care,1,$38.39 ,Edwards Edwards,Male,18-26,Donit,$83.31 
+10/2/2016,Pet Supplies,1,$5.37 ,Freitas Freitas,Male,41-50,Airron,$9.72 
+10/2/2016,Outdoor Play Equipment,1,$25.35 ,Rousse Rousse,Female,27-40,Donjob,$46.39 
+11/2/2016,Pet Supplies,1,$145.84 ,Caron Caron,Male,27-40,Bluefix,$271.26 
+11/2/2016,Nursing & Feeding,1,$118.84 ,Rhodes Rhodes,Female,27-40,Donit,$218.67 
+11/2/2016,Shoe Accessories,1,$57.56 ,Rousse Rousse,Female,41-50,Airing,$118.00 
+11/2/2016,Health Care,1,$55.53 ,Olson Olson,Female,27-40,Bluefix,$67.75 
+13/02/2016,Toys,1,$126.66 ,Russel Russel,Female,27-40,Alpha La,$252.05 
+13/02/2016,Nursing & Feeding,1,$116.75 ,Hwell Hwell,Male,27-40,Airron,$242.84 
+13/02/2016,Pet Supplies,1,$66.14 ,Thompson Thompson,Male,51-70,Donjob,$87.30 
+14/02/2016,Filing & Organization,1,$137.56 ,Russel Russel,Male,18-26,Donit,$215.97 
+17/02/2016,Computers,1,$119.62 ,Lewis Lewis,Male,41-50,Airfind,$166.27 
+18/02/2016,Clothing Accessories,1,$57.12 ,Margaret Margaret,Male,27-40,Airfind,$89.11 
+18/02/2016,Outdoor Play Equipment,1,$39.33 ,Rhodes Rhodes,Male,41-50,Air-Nix,$80.23 
+18/02/2016,Pet Supplies,1,$56.46 ,Margaret Margaret,Male,41-50,Bluefix,$121.95 
+19/02/2016,Pet Supplies,1,$130.25 ,Hwell Hwell,Female,27-40,Biolab,$192.77 
+19/02/2016,Household Appliances,1,$81.86 ,Thompson Thompson,Male,18-26,Alpha La,$122.79 
+20/02/2016,Games,1,$90.92 ,Jensen Jensen,Female,27-40,Duosoft,$168.20 
+20/02/2016,Paper Handling,3,$19.12 ,Hwell Hwell,Female,51-70,Airron,$35.56 
+20/02/2016,Product Manuals,1,$110.17 ,Margaret Margaret,Male,70+,Airron,$234.66 
+21/02/2016,Nursing & Feeding,1,$88.10 ,Freitas Freitas,Male,27-40,Alpha La,$182.37 
+21/02/2016,Baby Safety,1,$118.25 ,Freitas Freitas,Female,41-50,Duosoft,$248.33 
+22/02/2016,Clothing Accessories,1,$39.11 ,Banks Banks,Male,70+,Air-Nix,$48.11 
+23/02/2016,Puzzles,1,$123.81 ,Salo Salo,Male,27-40,Alphais,$165.91 
+23/02/2016,Games,1,$111.91 ,Freitas Freitas,Male,27-40,Concandox,$210.39 
+23/02/2016,Luggage Accessories,1,$11.78 ,Lewis Lewis,Female,41-50,Donit,$24.62 
+23/02/2016,Household Appliances,4,$14.57 ,Banks Banks,Male,27-40,Air-Nix,$18.36 
+24/02/2016,Office Carts,1,$103.24 ,Margaret Margaret,Female,27-40,Duosoft,$170.35 
+24/02/2016,Handbag & Wallet Accessories,1,$47.66 ,Freitas Freitas,Female,41-50,Alphais,$63.86 
+24/02/2016,Shoe Accessories,1,$122.10 ,Margaret Margaret,Male,41-50,Donjob,$163.61 
+24/02/2016,"Print, Copy, Scan & Fax",1,$58.26 ,Freitas Freitas,Female,27-40,Donjob,$109.53 
+25/02/2016,Office Equipment,1,$149.64 ,Thompson Thompson,Male,27-40,Airing,$185.55 
+25/02/2016,Household Appliances,1,$115.36 ,Jensen Jensen,Female,51-70,Bigstring,$241.10 
+26/02/2016,Presentation Supplies,1,$78.76 ,Rousse Rousse,Female,41-50,Bigstring,$144.92 
+26/02/2016,Bathroom Accessories,1,$129.78 ,Jensen Jensen,Female,27-40,Donjob,$205.05 
+27/02/2016,Shoe Accessories,1,$98.24 ,Caron Caron,Male,27-40,Airron,$188.62 
+28/02/2016,Games,1,$96.04 ,Edwards Edwards,Male,70+,Alphais,$132.54 
+29/02/2016,Household Supplies,1,$133.56 ,Salo Salo,Male,27-40,Biolab,$199.00 
+29/02/2016,Clothing Accessories,1,$45.03 ,Jensen Jensen,Female,41-50,Alpha La,$90.51 
+2/3/2016,Lighting,1,$45.19 ,Lewis Lewis,Female,27-40,Airron,$93.09 
+3/3/2016,Electronics Accessories,1,$80.11 ,Carter Carter,Female,27-40,Donjob,$132.18 
+3/3/2016,Office Carts,1,$22.99 ,Russel Russel,Male,18-26,Alphais,$37.24 
+3/3/2016,Marine Electronics,1,$95.18 ,Olson Olson,Female,18-26,Airron,$131.35 
+4/3/2016,Household Supplies,1,$38.46 ,Rhodes Rhodes,Male,27-40,Airron,$47.69 
+4/3/2016,Filing & Organization,1,$110.09 ,Hwell Hwell,Male,41-50,Airron,$225.68 
+4/3/2016,Personal Care,1,$120.42 ,Thompson Thompson,Male,27-40,Donjob,$234.82 
+6/3/2016,Presentation Supplies,1,$71.03 ,Edwards Edwards,Male,27-40,Bluefix,$133.54 
+6/3/2016,Lighting,1,$105.27 ,Edwards Edwards,Male,27-40,Bigstring,$214.75 
+6/3/2016,Diapering,1,$68.84 ,Caron Caron,Female,51-70,Bigstring,$82.61 
+7/3/2016,Food Items,1,$70.59 ,Rolland Rolland,Female,27-40,Alpha La,$84.71 
+9/3/2016,Lighting,1,$92.15 ,Hwell Hwell,Male,70+,Alphafind,$147.44 
+9/3/2016,Fireplace & Wood Stove Accessories,1,$141.28 ,Thincio Thincio,Female,51-70,Donjob,$300.93 
+10/3/2016,General Office Supplies,1,$23.70 ,Rousse Rousse,Male,27-40,Bigstring,$31.28 
+11/3/2016,Electronics Accessories,1,$39.90 ,Rhodes Rhodes,Male,27-40,Alphais,$64.24 
+12/3/2016,Health Care,4,$16.19 ,Thincio Thincio,Male,18-26,Donjob,$23.48 
+13/03/2016,Household Supplies,1,$53.09 ,Rousse Rousse,Male,27-40,Airron,$88.13 
+13/03/2016,Clothing Accessories,1,$75.66 ,Rousse Rousse,Male,18-26,Donit,$114.25 
+14/03/2016,Electronics Accessories,1,$67.82 ,Rhodes Rhodes,Male,41-50,Duosoft,$89.52 
+14/03/2016,Clothing,1,$131.68 ,Thincio Thincio,Female,18-26,Donjob,$202.79 
+14/03/2016,Clothing,1,$135.27 ,Caron Caron,Male,51-70,Alphais,$289.48 
+14/03/2016,Audio,1,$76.90 ,Carter Carter,Male,51-70,Airing,$156.11 
+15/03/2016,Pet Supplies,1,$95.22 ,Rousse Rousse,Male,51-70,Donit,$179.97 
+15/03/2016,Electronics Accessories,1,$140.75 ,Edwards Edwards,Male,27-40,Air-Nix,$178.75 
+15/03/2016,Clothing,1,$119.87 ,Hart Hart,Male,51-70,Biolab,$184.60 
+15/03/2016,Presentation Supplies,1,$44.60 ,Thompson Thompson,Male,70+,Alphafind,$74.04 
+15/03/2016,"Handbags, Wallets & Cases",1,$72.74 ,Lewis Lewis,Female,51-70,Alphais,$90.20 
+16/03/2016,Components,2,$5.59 ,Caron Caron,Male,51-70,Concandox,$11.24 
+17/03/2016,"Print, Copy, Scan & Fax",1,$36.89 ,Lewis Lewis,Female,18-26,Airron,$46.48 
+17/03/2016,Kitchen & Dining,1,$133.61 ,Hart Hart,Male,27-40,Bluefix,$237.83 
+18/03/2016,Networking,1,$81.78 ,Lewis Lewis,Male,41-50,Biolab,$107.95 
+20/03/2016,Beverages,1,$116.73 ,Rhodes Rhodes,Male,27-40,Duosoft,$217.12 
+20/03/2016,Puzzles,1,$109.74 ,Salo Salo,Male,27-40,Alpha La,$205.21 
+21/03/2016,Household Appliances,1,$33.72 ,Russel Russel,Female,51-70,Bigstring,$46.20 
+21/03/2016,Bathroom Accessories,1,$129.83 ,Carter Carter,Female,18-26,Concandox,$179.17 
+22/03/2016,Communications,4,$7.03 ,Thompson Thompson,Male,51-70,Donit,$9.00 
+23/03/2016,Clothing,1,$29.18 ,Margaret Margaret,Male,41-50,Airfind,$55.15 
+23/03/2016,Personal Care,1,$145.75 ,Hart Hart,Male,51-70,Donjob,$201.14 
+23/03/2016,Clothing Accessories,1,$109.13 ,Edwards Edwards,Male,41-50,Donjob,$192.07 
+26/03/2016,Business & Home Security,1,$128.65 ,Russel Russel,Male,51-70,Donit,$281.74 
+26/03/2016,Food Items,1,$85.44 ,Rhodes Rhodes,Female,27-40,Donjob,$117.05 
+26/03/2016,Personal Care,1,$61.37 ,Olson Olson,Male,27-40,Donit,$133.79 
+27/03/2016,Nursing & Feeding,1,$136.16 ,Margaret Margaret,Female,70+,Air-Nix,$170.20 
+27/03/2016,Lighting,1,$148.28 ,Russel Russel,Female,27-40,Alpha La,$283.21 
+28/03/2016,Household Supplies,1,$101.45 ,Banks Banks,Female,41-50,Donit,$166.38 
+29/03/2016,Electronics Accessories,1,$131.50 ,Margaret Margaret,Male,18-26,Donjob,$165.69 
+29/03/2016,Household Appliance Accessories,1,$68.27 ,Caron Caron,Female,27-40,Alpha La,$150.19 
+29/03/2016,Shoe Accessories,1,$72.95 ,Carter Carter,Male,18-26,Bluefix,$112.34 
+30/03/2016,General Office Supplies,1,$53.35 ,Carter Carter,Female,51-70,Airfind,$107.23 
+31/03/2016,Electronics Accessories,1,$120.65 ,Olson Olson,Male,18-26,Airfind,$235.27 
+31/03/2016,Clothing,1,$36.50 ,Banks Banks,Male,27-40,Biolab,$44.90 
+31/03/2016,General Office Supplies,1,$117.62 ,Lewis Lewis,Male,41-50,Bigstring,$162.32 
+1/4/2016,Health Care,1,$135.54 ,Hwell Hwell,Male,51-70,Bigstring,$176.20 
+1/4/2016,Fireplace & Wood Stove Accessories,1,$130.77 ,Edwards Edwards,Male,41-50,Donit,$261.54 
+2/4/2016,Audio,1,$39.67 ,Freitas Freitas,Female,51-70,Bigstring,$60.70 
+2/4/2016,Filing & Organization,1,$92.24 ,Rousse Rousse,Male,51-70,Donit,$112.53 
+2/4/2016,Lighting,1,$61.36 ,Thompson Thompson,Female,18-26,Bigstring,$106.15 
+3/4/2016,Networking,4,$8.09 ,Margaret Margaret,Male,41-50,Airron,$12.86 
+4/4/2016,Pet Supplies,1,$64.95 ,Salo Salo,Male,18-26,Bluefix,$91.58 
+5/4/2016,Clothing Accessories,1,$60.18 ,Salo Salo,Male,27-40,Bluefix,$117.95 
+5/4/2016,Business & Home Security,1,$64.68 ,Hwell Hwell,Male,70+,Airfind,$81.50 
+5/4/2016,Nursing & Feeding,3,$23.05 ,Jensen Jensen,Male,27-40,Airfind,$41.72 
+6/4/2016,Electronics Accessories,1,$140.78 ,Salo Salo,Male,41-50,Airron,$253.40 
+6/4/2016,Baby Toys & Activity Equipment,1,$60.47 ,Margaret Margaret,Male,27-40,Airing,$86.47 
+7/4/2016,Video,1,$13.89 ,Caron Caron,Male,27-40,Bluefix,$22.36 
+7/4/2016,Health Care,1,$101.75 ,Caron Caron,Male,27-40,Alphafind,$157.71 
+7/4/2016,Office Instruments,1,$137.09 ,Rhodes Rhodes,Female,51-70,Donjob,$187.81 
+9/4/2016,Personal Care,1,$118.69 ,Russel Russel,Male,41-50,Alphafind,$231.45 
+9/4/2016,Beverages,1,$81.64 ,Rolland Rolland,Female,51-70,Concandox,$164.91 
+12/4/2016,Pet Supplies,1,$148.56 ,Edwards Edwards,Male,18-26,Air-Nix,$301.58 
+13/04/2016,Health Care,1,$130.45 ,Hwell Hwell,Male,51-70,Airfind,$272.64 
+15/04/2016,Lighting,1,$64.42 ,Lewis Lewis,Female,27-40,Concandox,$100.50 
+16/04/2016,Pet Supplies,1,$30.96 ,Carter Carter,Male,51-70,Concandox,$63.78 
+16/04/2016,Clothing Accessories,1,$57.67 ,Rousse Rousse,Male,27-40,Biolab,$117.65 
+17/04/2016,Diapering,1,$42.58 ,Salo Salo,Male,27-40,Alpha La,$89.42 
+19/04/2016,Presentation Supplies,1,$85.21 ,Edwards Edwards,Female,18-26,Donjob,$128.67 
+19/04/2016,Computers,1,$63.80 ,Rhodes Rhodes,Female,27-40,Bigstring,$110.37 
+22/04/2016,Fireplace & Wood Stove Accessories,1,$65.89 ,Salo Salo,Female,27-40,Biolab,$110.70 
+23/04/2016,Marine Electronics,1,$99.89 ,Salo Salo,Male,27-40,Airron,$211.77 
+25/04/2016,"Handbags, Wallets & Cases",1,$55.29 ,Rhodes Rhodes,Female,41-50,Donit,$120.53 
+25/04/2016,Beverages,1,$113.72 ,Banks Banks,Male,27-40,Biolab,$200.15 
+26/04/2016,Outdoor Play Equipment,1,$87.51 ,Russel Russel,Male,41-50,Biolab,$190.77 
+27/04/2016,Paper Handling,1,$141.39 ,Margaret Margaret,Male,51-70,Alphais,$171.08 
+27/04/2016,Clothing Accessories,1,$120.74 ,Edwards Edwards,Male,41-50,Alpha La,$242.69 
+30/04/2016,Audio,1,$17.91 ,Russel Russel,Female,27-40,Airron,$36.54 
+30/04/2016,Computers,1,$51.99 ,Jensen Jensen,Male,18-26,Concandox,$63.43 
+30/04/2016,Health Care,5,$16.93 ,Jensen Jensen,Female,41-50,Airfind,$20.32 
+30/04/2016,Presentation Supplies,1,$44.09 ,Salo Salo,Female,27-40,Airron,$71.43 
+30/04/2016,Filing & Organization,1,$72.51 ,Hart Hart,Male,27-40,Bluefix,$90.64 
+1/5/2016,Pet Supplies,1,$128.29 ,Banks Banks,Male,27-40,Bigstring,$279.67 
+3/5/2016,Outdoor Play Equipment,1,$63.71 ,Rolland Rolland,Female,51-70,Concandox,$84.73 
+3/5/2016,Lighting,1,$17.80 ,Edwards Edwards,Male,27-40,Donit,$37.20 
+4/5/2016,Toys,1,$81.68 ,Jensen Jensen,Male,18-26,Bigstring,$178.06 
+5/5/2016,Household Supplies,5,$15.85 ,Russel Russel,Male,18-26,Alphais,$33.29 
+7/5/2016,Pet Supplies,1,$107.93 ,Rolland Rolland,Female,18-26,Airron,$174.85 
+7/5/2016,Linens & Bedding,1,$87.67 ,Thincio Thincio,Male,27-40,Bluefix,$163.94 
+8/5/2016,Plants,1,$66.28 ,Hwell Hwell,Female,51-70,Duosoft,$80.20 
+8/5/2016,Pet Supplies,2,$14.80 ,Lewis Lewis,Male,51-70,Airing,$17.91 
+8/5/2016,Filing & Organization,1,$100.02 ,Jensen Jensen,Male,41-50,Biolab,$128.03 
+9/5/2016,Presentation Supplies,1,$145.27 ,Jensen Jensen,Female,51-70,Airfind,$242.60 
+9/5/2016,Linens & Bedding,1,$95.73 ,Margaret Margaret,Male,27-40,Donit,$137.85 
+10/5/2016,Household Appliance Accessories,1,$108.69 ,Olson Olson,Female,41-50,Concandox,$218.47 
+11/5/2016,Bathroom Accessories,1,$70.77 ,Salo Salo,Male,41-50,Airing,$137.29 
+11/5/2016,Pet Supplies,1,$72.23 ,Thompson Thompson,Female,41-50,Airing,$127.12 
+11/5/2016,Household Appliances,1,$30.31 ,Jensen Jensen,Female,41-50,Bluefix,$55.16 
+11/5/2016,Luggage Accessories,1,$51.00 ,Rousse Rousse,Male,27-40,Duosoft,$107.10 
+11/5/2016,Pet Supplies,1,$9.19 ,Rousse Rousse,Male,51-70,Airfind,$13.60 
+13/05/2016,Video,3,$17.79 ,Rhodes Rhodes,Female,18-26,Bigstring,$31.84 
+13/05/2016,Electronics Accessories,1,$50.40 ,Salo Salo,Male,41-50,Airfind,$101.30 
+14/05/2016,Health Care,1,$108.94 ,Russel Russel,Male,51-70,Air-Nix,$211.34 
+15/05/2016,Shipping Supplies,1,$61.53 ,Hart Hart,Male,27-40,Alphafind,$89.83 
+16/05/2016,Video,1,$133.80 ,Edwards Edwards,Female,18-26,Alphafind,$272.95 
+16/05/2016,Household Supplies,1,$109.45 ,Hart Hart,Female,51-70,Airing,$230.94 
+17/05/2016,Costumes & Accessories,1,$44.83 ,Hwell Hwell,Male,41-50,Duosoft,$76.66 
+18/05/2016,Shoe Accessories,1,$141.13 ,Salo Salo,Female,27-40,Airing,$238.51 
+18/05/2016,Diapering,1,$8.44 ,Jensen Jensen,Male,27-40,Concandox,$17.98 
+18/05/2016,Games,1,$48.35 ,Salo Salo,Male,27-40,Concandox,$74.94 
+18/05/2016,Baby Health,1,$110.59 ,Thincio Thincio,Female,41-50,Airfind,$163.67 
+20/05/2016,Computers,1,$121.72 ,Rousse Rousse,Male,27-40,Airron,$261.70 
+20/05/2016,Baby Transport,1,$111.80 ,Rhodes Rhodes,Male,27-40,Donit,$180.00 
+21/05/2016,Lighting,1,$100.03 ,Margaret Margaret,Female,18-26,Alphafind,$165.05 
+22/05/2016,Video,1,$104.45 ,Carter Carter,Male,27-40,Air-Nix,$198.46 
+22/05/2016,Games,1,$106.55 ,Lewis Lewis,Male,27-40,Air-Nix,$197.12 
+23/05/2016,Household Supplies,1,$100.04 ,Jensen Jensen,Male,41-50,Donit,$164.07 
+24/05/2016,Handbag & Wallet Accessories,1,$99.02 ,Rousse Rousse,Male,51-70,Alpha La,$145.56 
+24/05/2016,Outdoor Play Equipment,1,$141.96 ,Banks Banks,Female,41-50,Airing,$271.14 
+24/05/2016,Diapering,1,$82.89 ,Rhodes Rhodes,Female,27-40,Airfind,$179.87 
+25/05/2016,Filing & Organization,1,$54.39 ,Olson Olson,Male,27-40,Airron,$71.79 
+25/05/2016,Bathroom Accessories,1,$124.10 ,Thompson Thompson,Male,51-70,Bluefix,$189.87 
+25/05/2016,Fireplace & Wood Stove Accessories,1,$43.53 ,Thompson Thompson,Female,51-70,Donit,$65.73 
+26/05/2016,Household Appliance Accessories,1,$149.71 ,Freitas Freitas,Male,70+,Donit,$241.03 
+27/05/2016,Baby Safety,1,$37.60 ,Thompson Thompson,Female,51-70,Alpha La,$68.43 
+27/05/2016,Office & Chair Mats,1,$105.70 ,Margaret Margaret,Female,41-50,Airing,$153.27 
+27/05/2016,Clothing Accessories,1,$136.39 ,Russel Russel,Female,27-40,Alpha La,$267.32 
+28/05/2016,General Office Supplies,5,$12.75 ,Russel Russel,Female,18-26,Donjob,$20.40 
+28/05/2016,Baby Toys & Activity Equipment,1,$136.16 ,Rousse Rousse,Female,18-26,Concandox,$220.58 
+28/05/2016,Lawn & Garden,4,$23.68 ,Hwell Hwell,Female,27-40,Airron,$37.41 
+28/05/2016,Diapering,1,$91.23 ,Rolland Rolland,Male,27-40,Duosoft,$156.92 
+29/05/2016,Kitchen & Dining,1,$147.40 ,Banks Banks,Male,41-50,Alpha La,$234.37 
+30/05/2016,Paper Handling,1,$107.32 ,Lewis Lewis,Male,18-26,Airing,$187.81 
+30/05/2016,Video,3,$17.01 ,Hwell Hwell,Female,18-26,Donit,$30.62 
+30/05/2016,Food Items,1,$83.42 ,Margaret Margaret,Female,41-50,Airing,$145.15 
+30/05/2016,Networking,1,$27.03 ,Lewis Lewis,Female,27-40,Donit,$38.11 
+31/05/2016,Health Care,1,$101.14 ,Freitas Freitas,Female,27-40,Airfind,$135.53 
+31/05/2016,Health Care,1,$80.10 ,Rhodes Rhodes,Male,27-40,Bigstring,$99.32 
+1/6/2016,Fireplace & Wood Stove Accessories,1,$64.87 ,Rolland Rolland,Female,41-50,Duosoft,$79.79 
+3/6/2016,"Handbags, Wallets & Cases",1,$105.14 ,Jensen Jensen,Female,27-40,Donjob,$177.69 
+3/6/2016,Games,1,$92.15 ,Salo Salo,Male,18-26,Airing,$117.03 
+4/6/2016,Presentation Supplies,1,$104.50 ,Caron Caron,Female,27-40,Duosoft,$158.84 
+6/6/2016,Office Instruments,1,$25.01 ,Thincio Thincio,Male,27-40,Donit,$49.77 
+7/6/2016,Food Items,1,$69.00 ,Caron Caron,Female,41-50,Biolab,$100.05 
+8/6/2016,Beverages,1,$31.86 ,Rolland Rolland,Female,27-40,Donit,$52.89 
+9/6/2016,Household Supplies,1,$126.19 ,Lewis Lewis,Female,41-50,Bigstring,$256.17 
+10/6/2016,Office Instruments,1,$55.20 ,Edwards Edwards,Male,18-26,Airfind,$93.29 
+10/6/2016,Pet Supplies,1,$80.71 ,Caron Caron,Female,51-70,Alphafind,$139.63 
+11/6/2016,Video,2,$15.46 ,Hwell Hwell,Male,51-70,Alphafind,$25.82 
+14/06/2016,Office Carts,4,$15.96 ,Rolland Rolland,Male,18-26,Bluefix,$33.36 
+15/06/2016,Networking,1,$137.01 ,Caron Caron,Female,27-40,Airing,$261.69 
+17/06/2016,Toys,1,$37.85 ,Rolland Rolland,Female,27-40,Donjob,$64.72 
+17/06/2016,Office Instruments,5,$6.93 ,Hwell Hwell,Male,41-50,Donit,$12.54 
+18/06/2016,Office Instruments,1,$124.54 ,Olson Olson,Male,41-50,Alphafind,$239.12 
+19/06/2016,Toys,1,$123.47 ,Freitas Freitas,Male,70+,Biolab,$239.53 
+19/06/2016,Filing & Organization,1,$27.18 ,Lewis Lewis,Male,27-40,Concandox,$45.12 
+19/06/2016,Shoe Accessories,3,$12.12 ,Rhodes Rhodes,Female,27-40,Donit,$19.03 
+20/06/2016,Kitchen & Dining,1,$38.25 ,Rhodes Rhodes,Male,51-70,Concandox,$63.88 
+20/06/2016,Toys,1,$91.28 ,Margaret Margaret,Male,41-50,Bigstring,$121.40 
+22/06/2016,Nursing & Feeding,1,$29.24 ,Caron Caron,Male,51-70,Alphais,$57.90 
+22/06/2016,Nursing & Feeding,1,$113.42 ,Margaret Margaret,Female,27-40,Alphais,$212.10 
+22/06/2016,Audio,1,$28.02 ,Carter Carter,Female,27-40,Bluefix,$61.36 
+23/06/2016,Clothing Accessories,5,$6.58 ,Thincio Thincio,Male,27-40,Concandox,$7.96 
+23/06/2016,Bathroom Accessories,1,$100.66 ,Rousse Rousse,Male,27-40,Airfind,$205.35 
+25/06/2016,Kitchen & Dining,1,$51.32 ,Freitas Freitas,Male,41-50,Duosoft,$81.60 
+25/06/2016,Lighting Accessories,3,$23.73 ,Olson Olson,Male,27-40,Donit,$33.46 
+26/06/2016,Luggage Accessories,1,$88.85 ,Lewis Lewis,Female,27-40,Alphafind,$126.17 
+28/06/2016,Pet Supplies,1,$78.52 ,Salo Salo,Female,27-40,Donit,$162.54 
+28/06/2016,Outdoor Play Equipment,1,$136.62 ,Hart Hart,Male,70+,Alphafind,$195.37 
+29/06/2016,Health Care,1,$43.19 ,Salo Salo,Male,27-40,Concandox,$69.10 
+29/06/2016,Pet Supplies,1,$125.54 ,Russel Russel,Female,41-50,Bigstring,$264.89 
+2/7/2016,Shoe Accessories,1,$89.79 ,Banks Banks,Female,51-70,Airing,$155.34 
+2/7/2016,Puzzles,4,$10.59 ,Freitas Freitas,Male,41-50,Airron,$14.83 
+2/7/2016,Filing & Organization,1,$63.51 ,Edwards Edwards,Female,18-26,Donit,$88.91 
+3/7/2016,Pet Supplies,1,$38.47 ,Caron Caron,Male,41-50,Airing,$53.86 
+3/7/2016,Office Equipment,1,$112.40 ,Olson Olson,Male,51-70,Donit,$212.44 
+3/7/2016,Personal Care,1,$85.48 ,Russel Russel,Female,41-50,Alpha La,$155.57 
+3/7/2016,Toys,1,$41.66 ,Banks Banks,Male,51-70,Bigstring,$85.40 
+4/7/2016,Filing & Organization,4,$19.99 ,Caron Caron,Female,18-26,Biolab,$29.99 
+4/7/2016,Office & Chair Mats,1,$32.75 ,Jensen Jensen,Female,51-70,Bluefix,$63.86 
+4/7/2016,Household Appliance Accessories,1,$113.64 ,Salo Salo,Female,41-50,Duosoft,$225.01 
+5/7/2016,Clothing Accessories,1,$111.14 ,Margaret Margaret,Female,27-40,Alphais,$174.49 
+5/7/2016,Filing & Organization,1,$85.73 ,Lewis Lewis,Female,18-26,Airing,$176.60 
+6/7/2016,Fireplace & Wood Stove Accessories,1,$149.70 ,Hart Hart,Female,70+,Biolab,$306.89 
+6/7/2016,Toys,1,$79.10 ,Edwards Edwards,Male,41-50,Alpha La,$128.93 
+7/7/2016,Household Appliance Accessories,1,$46.68 ,Thompson Thompson,Female,27-40,Alphafind,$56.48 
+10/7/2016,Lighting,1,$83.41 ,Rousse Rousse,Female,18-26,Airfind,$156.81 
+11/7/2016,Product Manuals,3,$24.38 ,Margaret Margaret,Male,27-40,Bigstring,$38.76 
+11/7/2016,Business & Home Security,1,$93.48 ,Rhodes Rhodes,Male,41-50,Airing,$120.59 
+11/7/2016,Health Care,3,$6.93 ,Hart Hart,Female,70+,Duosoft,$14.83 
+12/7/2016,Filing & Organization,1,$124.34 ,Freitas Freitas,Female,41-50,Bigstring,$162.89 
+13/07/2016,Personal Care,1,$129.95 ,Thincio Thincio,Male,27-40,Donit,$244.31 
+14/07/2016,Pet Supplies,1,$77.76 ,Caron Caron,Male,18-26,Donit,$140.75 
+14/07/2016,"Flood, Fire & Gas Safety",1,$121.46 ,Caron Caron,Male,70+,Donjob,$187.05 
+15/07/2016,Office Equipment,1,$35.98 ,Freitas Freitas,Male,27-40,Duosoft,$51.45 
+15/07/2016,Baby Safety,1,$118.31 ,Carter Carter,Male,51-70,Airfind,$218.87 
+16/07/2016,Baby Health,1,$123.40 ,Russel Russel,Male,41-50,Biolab,$159.19 
+16/07/2016,Book Accessories,1,$51.72 ,Olson Olson,Female,27-40,Duosoft,$91.54 
+16/07/2016,Baby Toys & Activity Equipment,1,$108.77 ,Hart Hart,Male,27-40,Donjob,$208.84 
+16/07/2016,Games,1,$64.86 ,Olson Olson,Male,27-40,Biolab,$79.78 
+16/07/2016,Diapering,1,$128.35 ,Hwell Hwell,Male,27-40,Air-Nix,$188.67 
+18/07/2016,Kitchen & Dining,1,$124.92 ,Rolland Rolland,Male,18-26,Alpha La,$248.59 
+18/07/2016,Kitchen & Dining,4,$9.03 ,Hart Hart,Female,51-70,Airfind,$11.56 
+19/07/2016,Toys,1,$52.34 ,Rolland Rolland,Female,41-50,Alpha La,$83.22 
+19/07/2016,Networking,1,$30.42 ,Banks Banks,Female,51-70,Alpha La,$49.28 
+21/07/2016,Outdoor Play Equipment,1,$117.25 ,Caron Caron,Male,51-70,Bluefix,$238.02 
+21/07/2016,Computers,1,$44.18 ,Thincio Thincio,Male,51-70,Donjob,$68.04 
+22/07/2016,Video,1,$19.69 ,Rolland Rolland,Female,27-40,Bluefix,$35.64 
+23/07/2016,General Office Supplies,1,$100.24 ,Rhodes Rhodes,Female,41-50,Bigstring,$181.43 
+23/07/2016,Baby Bathing,1,$59.63 ,Olson Olson,Male,18-26,Airing,$91.23 
+24/07/2016,Pet Supplies,1,$81.51 ,Hwell Hwell,Male,27-40,Concandox,$149.98 
+24/07/2016,Video,1,$91.19 ,Jensen Jensen,Male,27-40,Donit,$180.56 
+26/07/2016,Beverages,1,$114.44 ,Caron Caron,Male,41-50,Biolab,$188.83 
+28/07/2016,Electronics Accessories,1,$115.36 ,Edwards Edwards,Male,51-70,Donit,$220.34 
+28/07/2016,Electronics Accessories,1,$111.96 ,Jensen Jensen,Male,27-40,Alphafind,$244.07 
+28/07/2016,Household Appliances,1,$129.58 ,Olson Olson,Female,41-50,Concandox,$272.12 
+29/07/2016,Computers,1,$81.86 ,Rhodes Rhodes,Male,27-40,Alpha La,$121.15 
+30/07/2016,Baby Transport,1,$123.85 ,Edwards Edwards,Female,27-40,Alphafind,$151.10 
+30/07/2016,Electronics Accessories,1,$87.06 ,Thincio Thincio,Male,51-70,Airron,$138.43 
+2/8/2016,Luggage Accessories,1,$28.54 ,Banks Banks,Female,70+,Donit,$46.81 
+3/8/2016,Pet Supplies,1,$149.35 ,Rousse Rousse,Male,27-40,Donit,$228.51 
+5/8/2016,Office Equipment,1,$56.59 ,Hwell Hwell,Female,51-70,Concandox,$120.54 
+5/8/2016,Fireplace & Wood Stove Accessories,1,$103.96 ,Thincio Thincio,Male,27-40,Alphais,$185.05 
+7/8/2016,Beverages,1,$120.15 ,Jensen Jensen,Female,51-70,Alpha La,$167.01 
+7/8/2016,Household Supplies,2,$16.97 ,Russel Russel,Male,51-70,Alphais,$27.15 
+7/8/2016,Food Items,1,$127.79 ,Freitas Freitas,Female,41-50,Airron,$214.69 
+7/8/2016,Linens & Bedding,1,$73.48 ,Hwell Hwell,Male,70+,Donjob,$119.77 
+8/8/2016,Household Appliance Accessories,1,$25.79 ,Salo Salo,Male,27-40,Alpha La,$32.24 
+8/8/2016,Electronics Accessories,1,$138.54 ,Caron Caron,Female,41-50,Alpha La,$282.62 
+8/8/2016,Personal Care,1,$129.51 ,Rhodes Rhodes,Female,41-50,Duosoft,$259.02 
+8/8/2016,Health Care,1,$98.18 ,Jensen Jensen,Female,51-70,Concandox,$195.38 
+9/8/2016,Shoe Accessories,1,$72.02 ,Margaret Margaret,Male,41-50,Concandox,$130.36 
+10/8/2016,General Office Supplies,4,$22.17 ,Rousse Rousse,Male,41-50,Alphais,$45.23 
+11/8/2016,Clothing,1,$140.94 ,Olson Olson,Male,41-50,Biolab,$193.09 
+11/8/2016,Pet Supplies,1,$52.54 ,Salo Salo,Male,27-40,Biolab,$98.25 
+12/8/2016,Electronics Accessories,1,$117.88 ,Freitas Freitas,Female,27-40,Alphais,$219.26 
+13/08/2016,Pet Supplies,1,$105.06 ,Caron Caron,Female,70+,Concandox,$225.88 
+13/08/2016,Office Instruments,1,$130.62 ,Caron Caron,Female,70+,Donit,$265.16 
+14/08/2016,Pet Supplies,1,$31.07 ,Hart Hart,Female,18-26,Biolab,$44.74 
+14/08/2016,Outdoor Play Equipment,1,$71.94 ,Hart Hart,Male,18-26,Biolab,$102.87 
+15/08/2016,Luggage Accessories,1,$103.02 ,Margaret Margaret,Male,27-40,Donjob,$187.50 
+15/08/2016,Office Carts,1,$119.64 ,Rolland Rolland,Male,41-50,Bluefix,$177.07 
+15/08/2016,Potty Training,1,$108.51 ,Margaret Margaret,Female,18-26,Concandox,$156.25 
+15/08/2016,Lighting,4,$10.65 ,Hart Hart,Female,27-40,Air-Nix,$14.91 
+15/08/2016,Pet Supplies,1,$75.06 ,Carter Carter,Female,27-40,Airron,$111.09 
+16/08/2016,Beverages,1,$64.02 ,Olson Olson,Female,27-40,Alphafind,$131.88 
+16/08/2016,Outdoor Play Equipment,3,$10.72 ,Russel Russel,Female,41-50,Alpha La,$18.65 
+17/08/2016,Beverages,1,$33.80 ,Rolland Rolland,Female,41-50,Airing,$47.66 
+17/08/2016,Games,1,$53.45 ,Rousse Rousse,Female,27-40,Donit,$110.11 
+17/08/2016,Diapering,3,$5.25 ,Lewis Lewis,Female,18-26,Airfind,$7.35 
+19/08/2016,"Handbags, Wallets & Cases",1,$29.30 ,Hart Hart,Female,27-40,Bigstring,$42.49 
+19/08/2016,Pet Supplies,1,$26.09 ,Caron Caron,Male,27-40,Donit,$49.83 
+19/08/2016,Food Items,1,$122.78 ,Jensen Jensen,Female,18-26,Donit,$257.84 
+19/08/2016,Emergency Preparedness,1,$89.23 ,Olson Olson,Male,70+,Bigstring,$144.55 
+20/08/2016,General Office Supplies,5,$11.98 ,Thompson Thompson,Male,27-40,Donit,$20.01 
+20/08/2016,Baby Transport Accessories,1,$50.01 ,Thompson Thompson,Female,41-50,Donit,$92.02 
+21/08/2016,Health Care,1,$31.73 ,Margaret Margaret,Female,27-40,Biolab,$42.84 
+22/08/2016,Health Care,1,$59.84 ,Thincio Thincio,Female,41-50,Biolab,$115.49 
+23/08/2016,Diapering,2,$22.07 ,Rolland Rolland,Female,18-26,Airfind,$33.99 
+24/08/2016,Games,1,$119.74 ,Rolland Rolland,Female,27-40,Alphafind,$213.14 
+25/08/2016,Household Appliance Accessories,4,$12.83 ,Freitas Freitas,Male,41-50,Air-Nix,$16.94 
+27/08/2016,Filing & Organization,1,$137.39 ,Jensen Jensen,Female,27-40,Donjob,$245.93 
+28/08/2016,Clothing,1,$78.07 ,Banks Banks,Male,41-50,Airron,$162.39 
+28/08/2016,Pet Supplies,1,$13.52 ,Jensen Jensen,Male,41-50,Air-Nix,$25.96 
+28/08/2016,"Flood, Fire & Gas Safety",1,$104.07 ,Hart Hart,Female,27-40,Airfind,$217.51 
+28/08/2016,Communications,1,$83.86 ,Caron Caron,Female,41-50,Donit,$129.14 
+30/08/2016,Kitchen & Dining,1,$12.42 ,Jensen Jensen,Female,51-70,Donjob,$22.36 
+30/08/2016,Fireplace & Wood Stove Accessories,1,$44.93 ,Caron Caron,Male,41-50,Airing,$87.16 
+31/08/2016,Pet Supplies,1,$140.39 ,Lewis Lewis,Male,27-40,Bigstring,$294.82 
+31/08/2016,Household Appliance Accessories,1,$114.15 ,Hart Hart,Male,51-70,Alphafind,$140.40 
+1/9/2016,Clothing,1,$62.66 ,Thompson Thompson,Female,51-70,Alphafind,$91.48 
+1/9/2016,Bathroom Accessories,1,$91.27 ,Lewis Lewis,Male,41-50,Concandox,$190.75 
+1/9/2016,Baby Health,4,$23.76 ,Thompson Thompson,Female,27-40,Airfind,$35.40 
+2/9/2016,Communications,1,$39.74 ,Hwell Hwell,Female,27-40,Concandox,$82.26 
+2/9/2016,Clothing,1,$58.77 ,Rousse Rousse,Female,41-50,Concandox,$104.02 
+2/9/2016,Baby Safety,1,$94.24 ,Rolland Rolland,Female,41-50,Concandox,$179.06 
+2/9/2016,Beverages,1,$20.62 ,Hart Hart,Female,70+,Duosoft,$27.42 
+3/9/2016,Nursing & Feeding,1,$48.79 ,Thincio Thincio,Male,27-40,Air-Nix,$97.58 
+5/9/2016,Paper Handling,1,$35.63 ,Freitas Freitas,Male,27-40,Bluefix,$68.05 
+5/9/2016,Office Equipment,1,$82.10 ,Rolland Rolland,Male,27-40,Alphafind,$172.41 
+5/9/2016,Games,1,$106.47 ,Rolland Rolland,Female,27-40,Alphafind,$166.09 
+6/9/2016,Toys,1,$10.77 ,Banks Banks,Male,18-26,Alphais,$19.49 
+6/9/2016,Pet Supplies,1,$77.45 ,Russel Russel,Male,27-40,Air-Nix,$103.78 
+6/9/2016,Clothing Accessories,1,$38.25 ,Rhodes Rhodes,Male,51-70,Duosoft,$76.88 
+6/9/2016,Beverages,1,$31.68 ,Caron Caron,Female,41-50,Biolab,$56.39 
+6/9/2016,Lawn & Garden,1,$88.19 ,Jensen Jensen,Male,51-70,Concandox,$149.92 
+7/9/2016,Lighting,1,$29.61 ,Freitas Freitas,Male,70+,Alpha La,$59.81 
+8/9/2016,Fireplace & Wood Stove Accessories,3,$8.95 ,Edwards Edwards,Male,27-40,Bigstring,$17.63 
+9/9/2016,Filing & Organization,5,$24.85 ,Banks Banks,Male,27-40,Duosoft,$39.01 
+9/9/2016,Household Appliances,1,$69.89 ,Banks Banks,Male,27-40,Alphais,$143.27 
+10/9/2016,Household Supplies,1,$126.47 ,Edwards Edwards,Male,70+,Alpha La,$250.41 
+10/9/2016,Puzzles,1,$25.66 ,Thincio Thincio,Female,70+,Airfind,$50.55 
+10/9/2016,Clothing Accessories,1,$30.49 ,Carter Carter,Female,41-50,Bigstring,$66.16 
+12/9/2016,Luggage Accessories,1,$77.79 ,Margaret Margaret,Male,41-50,Alpha La,$160.25 
+12/9/2016,Networking,5,$23.18 ,Lewis Lewis,Male,27-40,Donit,$43.35 
+13/09/2016,Clothing,1,$61.57 ,Lewis Lewis,Male,70+,Concandox,$123.76 
+14/09/2016,Electronics Accessories,1,$95.19 ,Hart Hart,Male,18-26,Donit,$132.31 
+14/09/2016,Health Care,1,$62.79 ,Rousse Rousse,Female,70+,Donjob,$109.88 
+15/09/2016,Clothing Accessories,1,$43.55 ,Thincio Thincio,Male,41-50,Airing,$78.83 
+16/09/2016,Office Instruments,1,$132.48 ,Thincio Thincio,Female,41-50,Concandox,$172.22 
+16/09/2016,Outdoor Play Equipment,1,$47.48 ,Margaret Margaret,Male,27-40,Air-Nix,$87.36 
+17/09/2016,Baby Toys & Activity Equipment,3,$12.95 ,Lewis Lewis,Female,27-40,Alphais,$22.66 
+18/09/2016,Lighting,1,$119.35 ,Margaret Margaret,Female,27-40,Donjob,$245.86 
+18/09/2016,Health Care,1,$70.74 ,Edwards Edwards,Male,27-40,Bigstring,$128.04 
+18/09/2016,Video,1,$126.92 ,Carter Carter,Female,27-40,Alphafind,$269.07 
+18/09/2016,Food Items,1,$134.99 ,Rhodes Rhodes,Female,27-40,Donit,$174.14 
+19/09/2016,Games,1,$96.03 ,Margaret Margaret,Female,41-50,Alphais,$157.49 
+20/09/2016,Health Care,1,$137.17 ,Caron Caron,Female,41-50,Air-Nix,$167.35 
+20/09/2016,Clothing Accessories,1,$98.31 ,Caron Caron,Male,18-26,Alphafind,$143.53 
+22/09/2016,Bathroom Accessories,1,$47.22 ,Rolland Rolland,Female,27-40,Donit,$86.88 
+22/09/2016,Clothing,1,$59.82 ,Lewis Lewis,Female,27-40,Alpha La,$120.24 
+22/09/2016,Audio,1,$50.35 ,Rousse Rousse,Female,51-70,Duosoft,$110.27 
+22/09/2016,Business & Home Security,1,$84.57 ,Jensen Jensen,Female,41-50,Alpha La,$181.83 
+23/09/2016,Clothing Accessories,1,$136.07 ,Russel Russel,Male,41-50,Bluefix,$183.69 
+23/09/2016,Clothing,1,$64.35 ,Rhodes Rhodes,Male,51-70,Donit,$113.90 
+23/09/2016,Presentation Supplies,3,$7.01 ,Margaret Margaret,Female,41-50,Biolab,$14.72 
+24/09/2016,Clothing,1,$131.33 ,Thincio Thincio,Male,51-70,Donit,$260.03 
+26/09/2016,Personal Care,4,$18.11 ,Carter Carter,Male,27-40,Donjob,$33.32 
+27/09/2016,Networking,2,$12.30 ,Rolland Rolland,Female,41-50,Biolab,$26.20 
+28/09/2016,Filing & Organization,1,$64.87 ,Carter Carter,Female,18-26,Donit,$119.36 
+29/09/2016,Food Items,3,$12.79 ,Hwell Hwell,Female,70+,Bigstring,$20.46 
+29/09/2016,Product Manuals,1,$57.01 ,Hwell Hwell,Male,27-40,Duosoft,$103.19 
+30/09/2016,Pet Supplies,1,$109.02 ,Margaret Margaret,Male,27-40,Concandox,$149.36 
+1/10/2016,Clothing Accessories,1,$77.93 ,Russel Russel,Female,27-40,Duosoft,$137.94 
+1/10/2016,Clothing Accessories,1,$110.43 ,Caron Caron,Female,51-70,Donjob,$166.75 
+1/10/2016,Food Items,1,$96.42 ,Olson Olson,Male,18-26,Airing,$202.48 
+1/10/2016,Beverages,1,$12.87 ,Rhodes Rhodes,Female,18-26,Alphais,$27.67 
+2/10/2016,Office Equipment,1,$25.84 ,Carter Carter,Male,27-40,Airron,$42.38 
+2/10/2016,Book Accessories,1,$41.02 ,Margaret Margaret,Female,51-70,Alphafind,$76.71 
+2/10/2016,Toys,1,$50.30 ,Hart Hart,Male,18-26,Bigstring,$76.96 
+3/10/2016,Bathroom Accessories,1,$34.15 ,Rousse Rousse,Male,41-50,Bigstring,$73.76 
+3/10/2016,Nursing & Feeding,3,$23.48 ,Rousse Rousse,Female,51-70,Bluefix,$45.08 
+4/10/2016,Computers,1,$70.18 ,Caron Caron,Male,41-50,Donjob,$130.53 
+4/10/2016,Pet Supplies,1,$36.22 ,Banks Banks,Male,41-50,Concandox,$63.39 
+4/10/2016,Health Care,1,$57.20 ,Margaret Margaret,Male,41-50,Biolab,$77.79 
+7/10/2016,Personal Care,1,$98.64 ,Salo Salo,Female,70+,Airfind,$195.31 
+8/10/2016,Pet Supplies,1,$95.78 ,Rousse Rousse,Male,70+,Biolab,$207.84 
+8/10/2016,Toys,1,$88.14 ,Thompson Thompson,Female,27-40,Airfind,$172.75 
+10/10/2016,Fireplace & Wood Stove Accessories,1,$51.54 ,Freitas Freitas,Female,18-26,Bluefix,$100.50 
+10/10/2016,Diapering,4,$9.88 ,Hwell Hwell,Male,70+,Donjob,$19.36 
+10/10/2016,Pet Supplies,1,$30.54 ,Hart Hart,Male,27-40,Donit,$47.03 
+11/10/2016,Audio,1,$77.87 ,Hart Hart,Male,41-50,Donit,$149.51 
+11/10/2016,Pet Supplies,1,$129.05 ,Rolland Rolland,Female,27-40,Alphais,$221.97 
+11/10/2016,Personal Care,1,$103.91 ,Jensen Jensen,Female,27-40,Alpha La,$180.80 
+13/10/2016,Baby Toys & Activity Equipment,1,$124.34 ,Russel Russel,Male,51-70,Biolab,$161.64 
+15/10/2016,Toys,1,$81.09 ,Rousse Rousse,Female,27-40,Alphais,$115.15 
+16/10/2016,Toys,1,$125.82 ,Caron Caron,Female,27-40,Concandox,$257.93 
+16/10/2016,Bathroom Accessories,1,$87.09 ,Salo Salo,Male,27-40,Airing,$128.02 
+16/10/2016,Bathroom Accessories,1,$70.72 ,Freitas Freitas,Female,27-40,Alphafind,$144.27 
+16/10/2016,Jewelry Cleaning & Care,1,$68.83 ,Thincio Thincio,Male,27-40,Alphais,$147.98 
+17/10/2016,Office Carts,1,$138.41 ,Caron Caron,Female,41-50,Bigstring,$290.66 
+18/10/2016,Pet Supplies,1,$135.95 ,Margaret Margaret,Male,41-50,Alphais,$165.86 
+19/10/2016,Health Care,1,$106.03 ,Margaret Margaret,Female,18-26,Duosoft,$202.52 
+19/10/2016,Kitchen & Dining,1,$128.30 ,Hwell Hwell,Male,27-40,Airing,$175.77 
+22/10/2016,Personal Care,1,$7.04 ,Rhodes Rhodes,Female,27-40,Air-Nix,$11.26 
+22/10/2016,"Flood, Fire & Gas Safety",1,$79.68 ,Freitas Freitas,Female,18-26,Donit,$170.52 
+22/10/2016,Electronics Accessories,1,$86.90 ,Rolland Rolland,Female,27-40,Airron,$177.28 
+23/10/2016,Audio,1,$95.36 ,Banks Banks,Female,27-40,Bluefix,$156.39 
+23/10/2016,Office Carts,1,$109.21 ,Hart Hart,Female,27-40,Bluefix,$228.25 
+24/10/2016,Nursing & Feeding,1,$33.35 ,Thompson Thompson,Male,51-70,Donit,$44.36 
+24/10/2016,Communications,1,$70.01 ,Rhodes Rhodes,Male,41-50,Donjob,$125.32 
+25/10/2016,Components,1,$108.00 ,Caron Caron,Male,27-40,Airing,$221.40 
+25/10/2016,Beverages,1,$89.70 ,Rhodes Rhodes,Female,51-70,Donit,$177.61 
+26/10/2016,Office Carts,1,$91.13 ,Banks Banks,Female,27-40,Air-Nix,$143.99 
+26/10/2016,Nursing & Feeding,1,$129.45 ,Caron Caron,Female,51-70,Donit,$226.54 
+26/10/2016,Outdoor Play Equipment,1,$122.20 ,Caron Caron,Female,41-50,Bluefix,$206.52 
+26/10/2016,Outdoor Play Equipment,1,$149.51 ,Thompson Thompson,Female,18-26,Duosoft,$273.60 
+28/10/2016,General Office Supplies,1,$36.85 ,Hwell Hwell,Female,27-40,Airron,$54.54 
+29/10/2016,Toys,2,$16.27 ,Edwards Edwards,Male,70+,Airing,$28.80 
+29/10/2016,Household Appliances,1,$88.87 ,Russel Russel,Male,51-70,Air-Nix,$147.52 
